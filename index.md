@@ -1,3 +1,3 @@
-Repositório de documentação da Igreja Batista do Calvário de Santo André.
+# Documentações Igreja Batista do Calvário de Santo André.
 
-- [IBCalvário TV](ibcalvariotv/index.md)
+- [Ministério IBCalvário TV](ibcalvariotv/index.md)
