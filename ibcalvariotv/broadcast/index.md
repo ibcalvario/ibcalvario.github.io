@@ -2,8 +2,8 @@
 
 - [Do que estamos falando?]()
 - [Conhecendo os equipamentos e programas]()
-  - [ATEM]()
-  - [AJA HELO]()
+  - [ATEM](#atem)
+  - [AJA HELO](#aja-helo)
 
 ## Do que estamos falando?
 Broadcast se refere a transmitir de vídeo e som remotamente utilizando meios eletrônicos.\
