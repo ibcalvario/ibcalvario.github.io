@@ -57,8 +57,8 @@ Dependendo da utilização pode ser comparado ao PowerPoint pois sua finalidade 
 *Importante considerar que utilizamos a versão 6, que não é a última.*\
 TODO: Incluir link para tutorial ProPresenter.
 
-### [Announcer](#)
-![Announcer](announcer.png "Announcer")
+### [Announcer](#https://bitbucket.org/ibcalvario/ibcalvariotv/src/master/ibcalvariotv-announcer/)
+[![Announcer](announcer.png "Announcer")](https://bitbucket.org/ibcalvario/ibcalvariotv/src/master/ibcalvariotv-announcer/)
 
 Software de autoria e domínio do Calvário que serve para exibir avisos avulsos para os membros da igreja durante o culto.\
 Avisos como por exemplo para ir verificar algum problema com o carro no estacionamento, precisa ir no MIEDUC ver alguma ocorrência com o filho/filha, etc...
