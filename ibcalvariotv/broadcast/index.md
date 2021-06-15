@@ -36,7 +36,7 @@ Suporta apenas 1 destino de streaming por evento, em outras palavras, não pode 
 
 ELGATO Stream Deck, é um teclado dinâmico utilizado para operar e interagir com o [BitFocus](#bitfocus) ligado via porta USB.\
 Seu teclado suporta imagem, textos, tem 15 teclas e 99 páginas.\
-As configurações das teclas ficam definidas no [BitFocus](#bitfocus) também.\
+As configurações das teclas ficam definidas no BitFocus também.\
 **O Stream Deck depende totalmente do BitFocus e tudo que ele faz é através dele.**
 
 ### [BitFocus](https://bitfocus.io/companion/)
