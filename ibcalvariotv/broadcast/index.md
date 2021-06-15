@@ -67,3 +67,12 @@ Avisos como por exemplo para ir verificar algum problema com o carro no estacion
 Também é utilizado para exibir os avisos rotativos antes do início do cultos, isso porque o Announcer é capaz de exibir páginas web.
 
 A utilização é mais detalhada [aqui](announcer/index.md).
+
+### [Mesa de Iluminação DMX 512](#)
+
+Mesa de controladora de iluminação.\
+Especificações Básicas: Protocolo DMX, 192 canais.
+
+TODO: Falta detalhar.
+
+![Mesa de Iluminação DMX 512](mesa-iluminacao-dmx-512.png)
