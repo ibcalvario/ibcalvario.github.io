@@ -10,3 +10,4 @@ Seria o conjunto de coisas que fazemos para unir diversas ações e gerar um ví
 
 - [Equipamentos e programas](equipamentos-e-programas)
 - [Funções do time](funcoes-do-time)
+- [Atividades do início de culto](atividades-inicio-do-culto)

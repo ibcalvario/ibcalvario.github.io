@@ -39,7 +39,7 @@ VLC é um software gratuito que toca músicas e exibe vídeos em computadores e 
 Dependendo da utilização pode ser comparado ao PowerPoint pois sua finalidade é exibir apresentações, mas é mais voltado para exibição das letras dos louvores para que a igreja possa ler e acompanhar.\
 *Importante considerar que utilizamos a versão 6, que não é a última.*
 
-A utilização é mais detalhada [aqui](propresenter/index.md).
+A utilização é mais detalhada [aqui](propresenter/).
 
 ## [Announcer](#https://bitbucket.org/ibcalvario/ibcalvariotv/src/master/ibcalvariotv-announcer/)
 [![Announcer](announcer.png "Announcer")](https://bitbucket.org/ibcalvario/ibcalvariotv/src/master/ibcalvariotv-announcer/)
@@ -49,7 +49,7 @@ Avisos como por exemplo para ir verificar algum problema com o carro no estacion
 
 Também é utilizado para exibir os avisos rotativos antes do início do cultos, isso porque o Announcer é capaz de exibir páginas web.
 
-A utilização é mais detalhada [aqui](announcer/index.md).
+A utilização é mais detalhada [aqui](announcer/).
 
 ## [Mesa de Iluminação DMX 512](#)
 Mesa de controladora de iluminação.\
