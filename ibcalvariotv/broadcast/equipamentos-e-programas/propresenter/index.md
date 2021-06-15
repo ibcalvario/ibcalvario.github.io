@@ -6,7 +6,7 @@
 
 ## Como utilizamos no Calvário
 
-A saída do ProPresenter vai para um segundo monitor, que é capturado pela [ATEM](../index.md#atem).
+A saída do ProPresenter vai para um segundo monitor, que é capturado pela [ATEM](../../index.md#atem).
 
 A ATEM por sua vez vai aplicar um filtro de fundo verde nessa imagem e projetar ela sobreposta a outra imagem que estiver em produção ignorando o que estiver em verde.
 
