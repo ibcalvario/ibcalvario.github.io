@@ -44,3 +44,23 @@ As configurações das teclas ficam definidas no BitFocus também.\
 
 Esse software opera e interage com outros software e hardwares de áudio, vídeo e transmissão.\
 **Ele é a inteligência do [Stream Deck](#stream-deck) que não faz nada sem o BitFocus.**
+
+### [VLC](https://www.videolan.org/vlc/index.pt-BR.html)
+[![VLC](vlc.png "VLC")](https://www.videolan.org/vlc/index.pt-BR.html)
+
+VLC é um software gratuito que toca músicas e exibe vídeos em computadores e celulares.
+
+### [ProPresenter](https://renewedvision.com/propresenter/pro6-tutorials/)
+[![ProPresenter](propresenter.png "ProPresenter")](https://renewedvision.com/propresenter/pro6-tutorials/)
+
+Dependendo da utilização pode ser comparado ao PowerPoint pois sua finalidade é exibir apresentações, mas é mais voltado para exibição das letras dos louvores para que a igreja possa ler e acompanhar.\
+*Importante considerar que utilizamos a versão 6, que não é a última.*\
+TODO: Incluir link para tutorial ProPresenter.
+
+### [Announcer](#)
+![Announcer](announcer.png "Announcer")
+
+Software de autoria e domínio do Calvário que serve para exibir avisos avulsos para os membros da igreja durante o culto.\
+Avisos como por exemplo para ir verificar algum problema com o carro no estacionamento, precisa ir no MIEDUC ver alguma ocorrência com o filho/filha, etc...
+
+Também é utilizado para exibir os avisos rotativos antes do início do cultos, isso porque o Announcer é capaz de exibir páginas web.
