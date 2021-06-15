@@ -54,8 +54,9 @@ VLC é um software gratuito que toca músicas e exibe vídeos em computadores e 
 [![ProPresenter](propresenter.png "ProPresenter")](https://renewedvision.com/propresenter/pro6-tutorials/)
 
 Dependendo da utilização pode ser comparado ao PowerPoint pois sua finalidade é exibir apresentações, mas é mais voltado para exibição das letras dos louvores para que a igreja possa ler e acompanhar.\
-*Importante considerar que utilizamos a versão 6, que não é a última.*\
-TODO: Incluir link para tutorial ProPresenter.
+*Importante considerar que utilizamos a versão 6, que não é a última.*
+
+A utilização é mais detalhada [aqui](propresenter/index.md).
 
 ### [Announcer](#https://bitbucket.org/ibcalvario/ibcalvariotv/src/master/ibcalvariotv-announcer/)
 [![Announcer](announcer.png "Announcer")](https://bitbucket.org/ibcalvario/ibcalvariotv/src/master/ibcalvariotv-announcer/)
@@ -64,3 +65,5 @@ Software de autoria e domínio do Calvário que serve para exibir avisos avulsos
 Avisos como por exemplo para ir verificar algum problema com o carro no estacionamento, precisa ir no MIEDUC ver alguma ocorrência com o filho/filha, etc...
 
 Também é utilizado para exibir os avisos rotativos antes do início do cultos, isso porque o Announcer é capaz de exibir páginas web.
+
+A utilização é mais detalhada [aqui](announcer/index.md).
