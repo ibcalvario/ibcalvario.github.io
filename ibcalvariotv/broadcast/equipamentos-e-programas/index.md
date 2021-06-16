@@ -71,9 +71,9 @@ São câmeras capazes de movimentar, guardar e carregar posições, mudar propri
 TODO: Links e foto
 
 ## [Controlador de PTZs](#)
-Controla as ações das câmeras PTZs.\
+Controla as ações das câmeras PTZs.
 
-TODO: Links e foto
+TODO: Links e foto\
 TODO: Link para guia de operação.
 
 ![Mesa de Iluminação DMX 512](mesa-iluminacao-dmx-512.png)
