@@ -1,10 +1,10 @@
 # Equipamentos e programas
 {: .no_toc}
 
-Índice4
-
+Índice
 * TOC
 {:toc}
+---
 
 ## [ATEM](https://www.blackmagicdesign.com/br/products/atemtelevisionstudio/techspecs/W-APS-08)
 [![ATEM](atem.png "ATEM")](https://www.blackmagicdesign.com/br/products/atemtelevisionstudio/techspecs/W-APS-08)
