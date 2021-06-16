@@ -57,6 +57,21 @@ Também é utilizado para exibir os avisos rotativos antes do início do cultos,
 
 A utilização é mais detalhada [aqui](announcer/).
 
+## [MiniMac - Auxiliar de Transmissão](#) {#auxiliar-de-transmissao}
+Este computador tem o aplicativo que opera diretamente a ATEM caso necessário.\
+Também tem o [VLC](#vlc) instalado para reproduzir vídeos.
+
+## [Computador das legendas](#)
+Este computador tem o [ProPresenter](#propresenter) e o PowerPoint instalados.\
+Tem uma saída de segundo monitor que é ligado diretamente na [ATEM](#atem) ao qual os softwares usam para enviar imagens.
+
+## [Computador do chat e avisos](#)
+Este computador tem o PowerPoint e Chrome instalados.\
+Serve para:
+- Moderar o Chat dos canais de streaming através do navegador.
+- Validar volume do áudio também através do navegador.
+- Ajustar o PowerPoint da palavra caso o [computador da legenda](#computador-das-legendas) esteja ocupado (pasta sincronizada via Google Drive).
+
 ## [Mesa de Iluminação DMX 512](#)
 Mesa de controladora de iluminação.\
 Especificações Básicas: Protocolo DMX, 192 canais.
