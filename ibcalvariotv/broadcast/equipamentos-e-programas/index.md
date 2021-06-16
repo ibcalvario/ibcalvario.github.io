@@ -1,6 +1,7 @@
-# Equipamentos e programas{: .no_toc}
+# Equipamentos e programas
+{: .no_toc}
 
-Índice3
+Índice4
 
 * TOC
 {:toc}
