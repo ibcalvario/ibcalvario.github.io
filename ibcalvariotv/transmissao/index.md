@@ -1,7 +1,7 @@
-# Broadcast
+# Transmissão
 
 ## Do que estamos falando?
-Broadcast se refere a transmitir de vídeo e som remotamente utilizando meios eletrônicos.\
+O termo Transmissão (broadcast) se refere a trafegar vídeo e som remotamente utilizando meios eletrônicos.\
 No nosso caso podemos pensar, a grosso modo, que é quando fazemos o culto aparecer no Youtube ou Facebook.
 
 Mas como utilizamos mais que uma câmera, e por exemplo, embutimos letras dos louvores, agregamos avisos de rodapé e coisas desse tipo, fazemos com que o termo broacast signifique mais do que apenas transmitir eletrônicamente.
