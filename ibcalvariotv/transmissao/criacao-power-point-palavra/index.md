@@ -4,7 +4,9 @@ No vídeo abaixo mostrar, na prática, como criar o PowerPoint da Palavra.
 
 Porém mais abaixo vamos falar sobre padronizações.
 
-[![Edição do PowerPoint da Palavra na prática](https://img.youtube.com/vi/RMyvuyId0kI/0.jpg)](https://www.youtube.com/watch?v=RMyvuyId0kI)
+<video controls>
+  <source src="criacao-power-point-palavra.mp4" type="video/mp4">
+</video>
 
 ## Evitar textos com as letras em maiúsculo
 A não ser que o pregador queira uma ênfase em algo, devemos sempre evitar textos em maiúsculos como por exemplo *JESUS NOS CHAMA PARA SER SERVOS*, nesse caso deveria ficar *Jesus nos chama para ser servos*. 
