@@ -8,8 +8,27 @@ Porém mais abaixo vamos falar sobre padronizações.
   <source src="criacao-power-point-palavra.mp4" type="video/mp4">
 </video>
 
-## Evitar textos com as letras em maiúsculo
-A não ser que o pregador queira uma ênfase em algo, devemos sempre evitar textos em maiúsculos como por exemplo *JESUS NOS CHAMA PARA SER SERVOS*, nesse caso deveria ficar *Jesus nos chama para ser servos*. 
+## Formato do arquivo
+Estamos utilizando o PowerPoint 2013 com a extensão [pptx](https://support.microsoft.com/pt-br/office/formatos-de-arquivo-aos-quais-o-powerpoint-oferece-suporte-252c6fa0-a4bc-41be-ac82-b77c9773f9dc).
+
+É recomendado utilizar a mesma versão ou validar a compatibilidade afim de evitar problemas na hora do culto.
+
+## Textos com as letras maiúsculas
+A não ser que o pregador insista, devemos sempre evitar textos com todas as letras maiúsculas.
+
+![](maiusculas.png)
+
+## Quebra de linha
+Se atentar ao usar Enter ou Shift+Enter no PowerPoint, quando aperta Enter está se criando um novo parágrafo, o que cria um espaço maior.
+
+Shift+Enter deve ser sempre utilizado no caso do PowerPoint da palavra.
+
+![](shift-enter.png)
+
+## Larguras de texto próximas
+Isso não se refere ao PowerPoint todo, os textos são diferentes por slide e a busca por larguras próximas deve acontecer por slide.
+
+![](larguras-proximas.png)
 
 ## Referência ao texto bíblico da pregação
 - Nunca utilizar nomes de livros abreviados
