@@ -19,9 +19,9 @@ Não altere fontes, estilo, negrito, itálico, tamanhos, etc...
 ![](slides-mestres.png)
 
 ## Exceções
-Caso o pregador peça algo que fuja do que foi estabelecido nesse documento tenta negociar explicando que existe toda uma logística por trás.
+Caso o pregador peça algo que fuja do que foi estabelecido nesse documento, tente negociar explicando que existe toda uma logística por trás.
 
-Caso ele insista compartilhe o caso com o grupo que cuida desse tema ou avise porsteriormente caso não tenha tempo hábil para isso.
+Caso ele insista, compartilhe o caso com o grupo que cuida desse tema ou avise porsteriormente caso não tenha tempo hábil para isso.
 
 ## Ordem dos slides
 Os slides devem sempre seguir essa ordem.
