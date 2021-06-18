@@ -81,7 +81,7 @@ Quando estiver escrevendo em um bloco de texto com mais que uma linha, procure m
 
   - *Formato quando é apenas um versículos é como abaixo:*\
     (v. 14)
-  - *Formato para múltiplos versívulos:*\
+  - *Formato para múltiplos versículos:*\
     (v. 14, 15 e 16)
 
 ## Publicação
