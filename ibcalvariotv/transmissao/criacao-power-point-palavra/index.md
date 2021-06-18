@@ -50,6 +50,15 @@ Shift+Enter deve ser sempre utilizado no caso do PowerPoint da palavra.
 
 ![](shift-enter.png)
 
+## Copiar e colar
+Quando se copia e cola (Ctrl+C e Ctrl+V) do navegador, Word ou outro programa, pode-se copiar também a formatação (fonte, cor, tamanho e estilo).
+
+Isso é ruim pois não podemos mudar essas coisas na apresentação.
+
+Uma técnica para evitar isso é colar o texto no [Bloco de Notas](https://pt.wikipedia.org/wiki/Bloco_de_Notas) e aí copiar novamente para depois então colar no PowerPoint.
+
+Um texto copiado do Bloco de Notas vem livre de formatação.
+
 ## Larguras de texto próximas
 Quando estiver escrevendo em um bloco de texto com mais que uma linha, procure manter as larguras das linhas o mais próximas possível.
 
