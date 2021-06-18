@@ -4,7 +4,7 @@ No vídeo abaixo mostrar, na prática, como criar o PowerPoint da Palavra.
 
 Porém mais abaixo vamos falar sobre padronizações.
 
-<video controls>
+<video width="100%" controls>
   <source src="criacao-power-point-palavra.mp4" type="video/mp4">
 </video>
 
