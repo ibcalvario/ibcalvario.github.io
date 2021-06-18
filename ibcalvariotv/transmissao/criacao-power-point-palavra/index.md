@@ -9,10 +9,37 @@
 ## Formato do arquivo
 Estamos utilizando o PowerPoint 2013 com a extensão [pptx](https://support.microsoft.com/pt-br/office/formatos-de-arquivo-aos-quais-o-powerpoint-oferece-suporte-252c6fa0-a4bc-41be-ac82-b77c9773f9dc).
 
-É recomendado utilizar a mesma versão ou validar a compatibilidade afim de evitar problemas na hora do culto.
+**É altamente recomendado utilizar a mesma versão ou validar a compatibilidade afim de evitar problemas na hora do culto.**
+
+## Slides mestres
+No PowerPoint estamos utilizando o recurso de slides mestres afim de manter uma padronização.
+
+Não altere fontes, estilo, negrito, itálico, tamanhos, etc... 
+
+![](slides-mestres.png)
+
+## Exceções
+Caso o pregador peça algo que fuja do que foi estabelecido nesse documento tenta negociar explicando que existe toda uma logística por trás.
+
+Caso ele insista compartilhe o caso com o grupo que cuida desse tema ou avise porsteriormente caso não tenha tempo hábil para isso.
+
+## Ordem dos slides
+Os slides devem sempre seguir essa ordem.
+- Texto base\
+  *Referência bíblica.*
+- Leitura dos versículos\
+  *Texto bíblico escrito por extenso para que a igreja acompanhe a leitura, máximo de três linhas por slide, desejável uma ou duas.*
+- Tema\
+  *Tema da pregação.*
+- Sentença de transição\
+  *Opcional, texto que indica do que se tratam os tópicos a seguir.*
+- Tópicos\
+  *Um slide para cada tópico da pregação.*
+- Resumo\
+  *Slide único com todos os tópicos que é apresentado no final da pregação.*
 
 ## Textos com as letras maiúsculas
-A não ser que o pregador insista, devemos sempre evitar textos com todas as letras maiúsculas.
+Não se deve usar textos com todas as letras maiúsculas, mesmo em palavras isoladas.
 
 ![](maiusculas.png)
 
@@ -24,7 +51,9 @@ Shift+Enter deve ser sempre utilizado no caso do PowerPoint da palavra.
 ![](shift-enter.png)
 
 ## Larguras de texto próximas
-Isso não se refere ao PowerPoint todo, os textos são diferentes por slide e a busca por larguras próximas deve acontecer por slide.
+Quando estiver escrevendo em um bloco de texto com mais que uma linha, procure manter as larguras das linhas o mais próximas possível.
+
+*Isso não se refere ao PowerPoint todo, os textos são diferentes por slide e a busca por larguras próximas deve acontecer dentro do contexto de cada slide.*
 
 ![](larguras-proximas.png)
 
@@ -54,6 +83,15 @@ Isso não se refere ao PowerPoint todo, os textos são diferentes por slide e a 
     (v. 14)
   - *Formato para múltiplos versívulos:*\
     (v. 14, 15 e 16)
+
+## Publicação
+Ao terminar a criação da apresentação deve-se publicar no grupo de WhatsApp responsável por esse tema.
+
+O passo seguinte a esse é copiar o arquivo para a pasta sincronizada (Google Drive), essa tarefas deve ser feita pelos que estão no grupo do WhatsApp seguido por uma notificação (mensagem) ao grupo de que o arquivo foi copiado.
+
+Os coordenadores da operação do ministério devem estar no grupo de WhatsApp e, caso haja algum problema com a sincronização, eles devem baixar o arquivo que receberam por algum meio alternativo como WhatsApp Web por exemplo.
+
+Também é possível que o pregador não envie o conteúdo a tempo, nesse caso a edição terá que ser feita diretamente na igreja, salvando na pasta sincronizada.
 
 ## Vídeo de demonstração
 
