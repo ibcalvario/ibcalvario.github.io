@@ -55,7 +55,7 @@ Isso não se refere ao PowerPoint todo, os textos são diferentes por slide e a 
   - *Formato para múltiplos versívulos:*\
     (v. 14, 15 e 16)
 
-## Demonstração
+## Vídeo de demonstração
 
 A idéia do vídeo abaixo é facilitar a compreensão mostrando na prática, como criar o PowerPoint da Palavra.
 
