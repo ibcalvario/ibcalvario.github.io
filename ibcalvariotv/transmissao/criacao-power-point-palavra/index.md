@@ -1,12 +1,10 @@
 # Criação do PowerPoint da Palavra
+{: .no_toc}
 
-No vídeo abaixo mostrar, na prática, como criar o PowerPoint da Palavra.
-
-Porém mais abaixo vamos falar sobre padronizações.
-
-<video width="100%" controls>
-  <source src="criacao-power-point-palavra.mp4" type="video/mp4">
-</video>
+Índice
+* TOC
+{:toc}
+---
 
 ## Formato do arquivo
 Estamos utilizando o PowerPoint 2013 com a extensão [pptx](https://support.microsoft.com/pt-br/office/formatos-de-arquivo-aos-quais-o-powerpoint-oferece-suporte-252c6fa0-a4bc-41be-ac82-b77c9773f9dc).
@@ -56,3 +54,13 @@ Isso não se refere ao PowerPoint todo, os textos são diferentes por slide e a 
     (v. 14)
   - *Formato para múltiplos versívulos:*\
     (v. 14, 15 e 16)
+
+## Demonstração
+
+A idéia do vídeo abaixo é facilitar a compreensão mostrando na prática, como criar o PowerPoint da Palavra.
+
+**Se aqui no vídeo, algo não estar compatível com as regras definidas acima, o que deve prevalecer são as regras escritas no documento, não o que aparece no vídeo.**
+
+<video width="100%" controls>
+  <source src="criacao-power-point-palavra.mp4" type="video/mp4">
+</video>
