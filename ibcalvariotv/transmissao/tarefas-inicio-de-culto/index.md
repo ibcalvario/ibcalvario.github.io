@@ -1,5 +1,7 @@
 # Tarefas do início de culto
 
+TODO: Seria legal nessa página ter algo como [isso](https://docs.google.com/document/d/1_DlXppQ0PlnJFCKjRKeMZ-COWMGb_DZA/edit#bookmark=id.yhggi79oj6vl).
+
 ## Rotina geral, 30 minutos antes
 - Todos - Orar, pedir para Deus conduzir o carro nessa viagem.
 - Coordenador - [Ligar os equipamentos](#ligar-os-equipamentos)
