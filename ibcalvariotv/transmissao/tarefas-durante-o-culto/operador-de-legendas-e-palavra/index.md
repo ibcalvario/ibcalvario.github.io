@@ -61,5 +61,5 @@ Cada passo deve ser avisado a quem estiver no StreamDeck.
 - Leitura dos versículos
 - Tema
 - Sentenças de transição
-- Tópicos
+- Tópicos *(ativação do Letras para cada tópico)*
 - Resumo dos tópicos
