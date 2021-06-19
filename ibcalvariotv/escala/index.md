@@ -52,6 +52,8 @@ Antes de publicar deve-se:
 - Incluir em cada dia o horário de chegada manualmente
 - Revisar a formatação
 
+A publicação da escala deve ser feita pelo líder do ministério ou a quem ele delegar.
+
 A escala deve ser publicada no grupo do ministério copiando da célula apontada na imagem abaixo.
 
 ![](publicacao.png)
