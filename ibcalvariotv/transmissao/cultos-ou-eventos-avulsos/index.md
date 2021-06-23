@@ -1,10 +1,24 @@
 # Cultos ou eventos avulsos
+{: .no_toc}
 
+Índice
+* TOC
+{:toc}
+---
+
+## Do que estamos falando
 Aqui estamos falando de eventos que são específicos de um ministério, seja culto ou alguma reunião, enfim, algo que não está direcionado a igreja toda.
 
-Nesse caso devemos fazer o culto utilizando a opção de visibilidade "Não-indexado" no YouTube e expalhar o link do evento manualmente por grupos de WhatsApp.
+## Anter de transmitir
+Devemos fazer a transmissão utilizando a opção de visibilidade "Não-indexado" no YouTube e expalhar o link do evento manualmente por grupos de WhatsApp.
 
 Importante considerar que a transmissão só será possível para o YouTube porque não temos controle de visibilidade sobre transmissões de Facebook. TODO: Confirmar.
+
+**Esse passo é muito importante** porque se isso não for mudado a igreja toda será notificada de um novo vídeo no canal.
+
+## Após a transmissão
+Voltar a opção de visibilidade para "Público".\
+**Esse passo também é muito importante** pois históricamente já aconteceu muito dessa opção estar errada na hora de iniciar cultos que devem ser públicos.
 
 ## Streaming apropriado
 Para enviar o vídeo como não-indexado e somente apontando para o YouTube devemos seguir os seguintes passos.
