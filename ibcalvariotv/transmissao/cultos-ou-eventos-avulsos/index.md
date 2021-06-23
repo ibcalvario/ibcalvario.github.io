@@ -16,7 +16,7 @@ Todo vídeo não-indexado que estiver sendo exibido deve ser imediatamente notif
 
 Isso porque os pastores precisam validar o conteúdo.
 
-Se os pastores aprovarem o conteúdo e derem o ok para publicar na internet aí então tornaremos o conteúdo público.
+Se os pastores aprovarem o conteúdo e derem o ok para publicar na internet aí o líder ou a quem ele delegar essa atividade deve tornar o conteúdo público.
 
 ## Histórico
 Havíamos pensado em ter uma segunda conta de usuário no [Restream](/ibcalvariotv/transmissao/equipamentos-e-programas/#restream) que direcionasse a transmissão para canais específicos de cada ministério (facebook do ministério da mocidade por exemplo).
