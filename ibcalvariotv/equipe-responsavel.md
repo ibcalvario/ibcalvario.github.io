@@ -1,7 +1,7 @@
 # Manutenção da documentação do IBCalvarioTV
 
 ## Considerações
-Ver [página](/manutencao-da-documentacao) que define os detalhes das manutenções para todos os ministérios.
+Ver [página](/sobre-a-documentacao) que define os detalhes das manutenções para todos os ministérios.
 
 ## Equipe responsável
 
