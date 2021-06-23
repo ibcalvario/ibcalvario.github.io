@@ -13,12 +13,21 @@ Esse equipamento nos auxilia a escolher, entre diversas entradas (câmeras, saí
 Algum chamam essa função de mesa de corte, pois o operador "corta" de uma cena para outra.\
 *Especificações Básicas: 8 Entradas (4 HDMI, 4SDI), 2 Entrada de Áudio, 5 Saídas Program (Ao vivo), 1 Saída Auxiliar, 1 Saída Multiview.*
 
+## [Restream](https://restream.io/)
+[![Restream](restream.png "Restream")](https://restream.io/)
+
+Esse software não é instalado em nossos computadores, é um [software como serviço](https://pt.wikipedia.org/wiki/Software_como_servi%C3%A7o), ou seja, é um serviço disponível na internet.
+
+Sua função é receber um sinal de transmissão (stream) e multiplicar entre vários serviços de streaming como YouTube e Facebook por exemplo.
+
 ## [AJA HELO](https://www.aja.com/products/helo)
 [![AJA HELO](aja-helo.png "AJA HELO")](https://www.aja.com/products/helo)
 
 O AJA HELO é um servidor de streaming e gravação, isso quer dizer que ele é responsável exclusivamente para a transmissão do vídeo para YouTube, Facebook e outros produtos desse tipo.\
 Utiliza codificação H.264/MPEG-4 compatível com YouTube, Facebook e outros.\
 Suporta apenas 1 destino de streaming por evento, em outras palavras, não pode por exemplo, transmitir para YouTube e Facebook ao mesmo tempo.
+
+Ele faz o streaming para o [Restream](#restream) para que este, por sua vez, possa multiplicar o stream para YouTube e Facebook.
 
 ## [Stream Deck](https://www.elgato.com/en/gaming/stream-deck)
 [![Stream Deck](stream-deck.png "Stream Deck")](https://www.elgato.com/en/gaming/stream-deck)
