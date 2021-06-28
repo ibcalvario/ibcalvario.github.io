@@ -51,6 +51,7 @@ Antes de publicar deve-se:
 - Remover as aspas duplas do início e fim
 - Incluir em cada dia o horário de chegada manualmente
 - Revisar a formatação
+- Ressaltar a ceia e colocar dois coordenadores
 - Validar distribuição com os coordenadores
   - A escala automática pode fazer repetições que não são legais
 
