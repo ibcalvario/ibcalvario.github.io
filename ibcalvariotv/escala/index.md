@@ -51,6 +51,8 @@ Antes de publicar deve-se:
 - Remover as aspas duplas do início e fim
 - Incluir em cada dia o horário de chegada manualmente
 - Revisar a formatação
+- Validar distribuição com os coordenadores
+  - A escala automática pode fazer repetições que não são legais
 
 A publicação da escala deve ser feita pelo líder do ministério ou a quem ele delegar.
 
