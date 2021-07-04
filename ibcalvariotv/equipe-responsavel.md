@@ -10,6 +10,6 @@ Por ordem alfabética.
 TODO: Ajustar e-mails.
 
 - [Denis Nietto (líder)](mailto:denisnietto@yahoo.com.br)
-- [Gustavo](mailto:gustavo@hotmail.com)
+- [Gustavo](mailto:gustavoh908@gmail.com)
 - [Marcelo](mailto:marcelo@hotmail.com)
 - [Wellington](mailto:wellington@hotmail.com)
