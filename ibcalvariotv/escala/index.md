@@ -48,9 +48,8 @@ Caso seja preciso criar mais linhas as fórmulas devem ser copiadas e coladas da
 # Publicando a escala
 
 Antes de publicar deve-se:
-- Remover as aspas duplas do início e fim
-- Incluir em cada dia o horário de chegada manualmente
 - Revisar a formatação
+- Incluir em cada culto o horário de chegada manualmente
 - Ressaltar a ceia e colocar dois coordenadores
 - Validar distribuição com os coordenadores
   - A escala automática pode fazer repetições que não são legais
