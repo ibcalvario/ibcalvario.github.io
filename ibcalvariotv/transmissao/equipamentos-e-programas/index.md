@@ -94,10 +94,17 @@ São câmeras capazes de movimentar, guardar e carregar posições, mudar propri
 
 TODO: Links e foto
 
-## [Controlador de PTZs](#)
+## [Controlador de PTZs 1](#)
 Controla as ações das câmeras PTZs.
 
+TODO: Pegar modelo e mudar o título\
 TODO: Links e foto\
-TODO: Link para guia de operação.
+TODO: Link para guia de operação
 
-![Mesa de Iluminação DMX 512](mesa-iluminacao-dmx-512.png)
+## [Controlador de PTZs VS PTC IP](https://www.marshall-usa.com/pdf/Marshall_VS-PTC-IP_manualV3.pdf)
+Controla as ações das câmeras PTZs.
+
+![Controlador de PTZs VS PTC IP](controle-ptz-vs-ptc-ip.png)
+
+TODO: Link para guia de operação\
+TODO: Tradução das principais funcionalidades
