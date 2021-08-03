@@ -9,7 +9,7 @@ Coordenador deve juntar todo mundo e ORAR assim que estiverem todos.
     <th>Controlador de Imagens</th>
     <th>Operador de Câmeras</th>
     <th>Operador de Legendas</th>
-    <th>Chat</th>
+    <th>Moderador de Chat e Áudio</th>
   </tr>
   <tr>
     <td>Ligar equipamentos</td><!--StreamDeck-->
