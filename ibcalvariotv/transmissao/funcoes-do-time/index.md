@@ -3,13 +3,13 @@
 ## Controlador de imagens
 Responsável por operar o Stream Deck e fazer os cortes de câmeras.\
 Tarefas de [início](../tarefas-inicio-de-culto/), 
-[decorrer](../tarefas-durante-o-culto/#controlador-de-imagens) e
+[decorrer](../tarefas-durante-o-culto/controlador-de-imagens) e
 [final](../tarefas-final-de-culto/#controlador-de-imagens) de culto.
 
 ## Operador das câmeras
 Responsável por operar o controle das câmeras.\
 Tarefas de [início](../tarefas-inicio-de-culto/), 
-[decorrer](../tarefas-durante-o-culto/#operador-de-cameras/) e
+[decorrer](../tarefas-durante-o-culto/operador-de-cameras/) e
 [final](../tarefas-final-de-culto/#operador-de-cameras) de culto.
 
 ## Operador de legendas e palavra
