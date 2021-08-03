@@ -3,23 +3,42 @@
 ## Assim que chegarem todos
 Coordenador deve juntar todo mundo e ORAR assim que estiverem todos.
 
-## Tarefas por papel desempenhado
+## Por papel desempenhado
 <table>
-<tr>
-<td><b>Controlador de Imagens</b></td><td><b>Operador de Câmeras</b></td><td><b>Legendas</b></td><td><b>Chat</b></td>
-</tr>
-<tr>
-<td>Ligar equipamentos</td><td>Testar controle câmeras</td><td>Verificar Playlist</td><td>Ligar avisos</td>
-</tr>
-<tr>
-<td>Conferir Internet</td><td>Ajuste fino dos Presets</td><td>Verificar imagem na ATEM</td><td>Testar on/off Áudio</td>
-</tr>
-<tr>
-<td>Testar Stream Deck</td><td></td><td></td><td>Conferir título Restream</td>
-</tr>
-<tr>
-<td>Testar VLC</td><td></td><td></td><td>Conferir PowerPoint Palavra</td>
-</tr>
-<tr>
-<td>Testar saída do Mac</td><td></td><td></td><td></td>
-</tr>
+  <tr>
+    <th>Controlador de Imagens</th>
+    <th>Operador de Câmeras</th>
+    <th>Operador de Legendas</th>
+    <th>Chat</th>
+  </tr>
+  <tr>
+    <td>Ligar equipamentos</td><!--StreamDeck-->
+    <td>Testar controle câmeras</td><!--PTZ-->
+    <td>Verificar Playlist</td><!--Legendas-->
+    <td>Ligar avisos</td><!--Chat-->
+  </tr>
+  <tr>
+    <td>Conferir Internet</td><!--StreamDeck-->
+    <td>Ajuste fino dos Presets</td><!--PTZ-->
+    <td>Verificar imagem na ATEM</td><!--Legendas-->
+    <td>Testar on/off Áudio</td><!--Chat-->
+  </tr>
+  <tr>
+    <td>Testar Stream Deck</td><!--StreamDeck-->
+    <td></td><!--PTZ-->
+    <td></td><!--Legendas-->
+    <td>Conferir título Restream</td><!--Chat-->
+  </tr>
+  <tr>
+    <td>Testar VLC</td><!--StreamDeck-->
+    <td></td><!--PTZ-->
+    <td></td><!--Legendas-->
+    <td>Conferir PowerPoint Palavra</td><!--Chat-->
+  </tr>
+  <tr>
+    <td>Testar saída do Mac</td><!--StreamDeck-->
+    <td></td><!--PTZ-->
+    <td></td><!--Legendas-->
+    <td></td><!--Chat-->
+  </tr>
+</table>
