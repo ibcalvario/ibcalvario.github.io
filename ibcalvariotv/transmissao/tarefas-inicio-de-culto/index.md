@@ -12,31 +12,43 @@ Coordenador deve juntar todo mundo e ORAR assim que estiverem todos.
     <th>Moderador de Chat e Áudio</th>
   </tr>
   <tr>
-    <td>Ligar equipamentos</td><!--StreamDeck-->
-    <td>Testar controle câmeras</td><!--PTZ-->
-    <td>Verificar Playlist</td><!--Legendas-->
-    <td>Ligar avisos</td><!--Chat-->
+    <td>Ligar equipamentos Hack</td><!--StreamDeck-->
+    <td>Ligar TV central se estiver desligada</td><!--PTZ-->
+    <td>Ligar PC de legendas</td><!--Legendas-->
+    <td>Ligar todas as TVs</td><!--Chat-->
   </tr>
   <tr>
     <td>Conferir Internet</td><!--StreamDeck-->
-    <td>Ajuste fino dos Presets</td><!--PTZ-->
+    <td>Testar controle câmeras</td><!--PTZ-->
     <td>Verificar imagem na ATEM</td><!--Legendas-->
-    <td>Testar on/off Áudio</td><!--Chat-->
+    <td>Ligar PC do Chat</td><!--Chat-->
   </tr>
   <tr>
     <td>Testar Stream Deck</td><!--StreamDeck-->
-    <td></td><!--PTZ-->
-    <td></td><!--Legendas-->
-    <td>Conferir título Restream</td><!--Chat-->
+    <td>Ligar sistema de iluminação</td><!--PTZ-->
+    <td>Verificar Playlist do ProPresenter</td><!--Legendas-->
+    <td>Testar página Stream Deck</td><!--Chat-->
   </tr>
   <tr>
-    <td>Testar VLC</td><!--StreamDeck-->
-    <td></td><!--PTZ-->
-    <td></td><!--Legendas-->
-    <td>Conferir PowerPoint Palavra</td><!--Chat-->
+    <td>Verificar título no Restream e opção de Chat no YouTube</td><!--StreamDeck-->
+    <td>Testar iluminação</td><!--PTZ-->
+    <td>Revisar PowerPoint da Palavra</td><!--Legendas-->
+    <td>Ativar avisos nas TVs e ligar botão Avisos no Stream Deck</td><!--Chat-->
   </tr>
   <tr>
-    <td>Testar saída do Mac</td><!--StreamDeck-->
+    <td>Conferir vídeo de abertura no VLC e testar.</td><!--StreamDeck-->
+    <td>Ajuste dos Preset's</td><!--PTZ-->
+    <td></td><!--Legendas-->
+    <td>Testar fone de ouvido</td><!--Chat-->
+  </tr>
+  <tr>
+    <td>Testar comunicadores Hollyland</td><!--StreamDeck-->
+    <td></td><!--PTZ-->
+    <td></td><!--Legendas-->
+    <td></td><!--Chat-->
+  </tr>
+  <tr>
+    <td></td><!--StreamDeck-->
     <td></td><!--PTZ-->
     <td></td><!--Legendas-->
     <td></td><!--Chat-->
