@@ -10,7 +10,7 @@ Seria o conjunto de coisas que fazemos para unir diversas ações e gerar um ví
 
 - [Equipamentos e programas](equipamentos-e-programas)
 - [Funções do time](funcoes-do-time)
-- [Tarefas de início e fim de culto](tarefas-inicio-e-fim-de-culto)
+- [Tarefas de início e fim de culto](tarefas-inicio-e-fim-de-culto/index)
 - [Culto ou eventos avulsos](cultos-ou-eventos-avulsos)
 - [Relação das cenas das PTZ's](https://docs.google.com/forms/d/e/1FAIpQLSeXEsR-l0ivqx7HLGRimf0jaF3FTjfNlw2v1qkcfZQ2UEY5JA/viewform)
 - [Criação de PowerPoint da palavra](criacao-power-point-palavra)
