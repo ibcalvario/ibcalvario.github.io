@@ -11,7 +11,6 @@ Seria o conjunto de coisas que fazemos para unir diversas ações e gerar um ví
 - [Equipamentos e programas](equipamentos-e-programas)
 - [Funções do time](funcoes-do-time)
 - [Tarefas do início de culto](tarefas-inicio-de-culto)
-- [Tarefas durante o culto](tarefas-durante-o-culto)
 - [Tarefas do final de culto](tarefas-final-de-culto)
 - [Culto ou eventos avulsos](cultos-ou-eventos-avulsos)
 - [Relação das cenas das PTZ's](https://docs.google.com/forms/d/e/1FAIpQLSeXEsR-l0ivqx7HLGRimf0jaF3FTjfNlw2v1qkcfZQ2UEY5JA/viewform)
