@@ -23,7 +23,7 @@
     <td>Conferir Internet</td><!--StreamDeck-->
     <td>Ligar TV central se estiver desligada</td><!--PTZ-->
     <td>Ver no MultiView, se a imagem do ProPresenter está indo para a ATEM</td><!--Legendas-->
-    <td>Ligar todas as TVs</td><!--Chat-->
+    <td>Ligar todas as TVs eo Projetor</td><!--Chat-->
   </tr>
   <tr>
     <td>Testar Stream Deck</td><!--StreamDeck-->
@@ -59,4 +59,6 @@
 
 ## Fim de culto
 
-- Operador do chat deve definir a descrição e título do vídeo no YouTube e Facebook.
+- Operador do chat deve definir a descrição e título do vídeo no YouTube e Facebook
+- Desligar Mini-Mac, PCs, TVs e Projetor
+- Coordenador desligar iluminação no quadro
