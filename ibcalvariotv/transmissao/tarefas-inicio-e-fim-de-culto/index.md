@@ -1,6 +1,6 @@
-# Tarefas do início de culto
+# Tarefas do início e fim de culto
 
-## Responsabilidade do coordenador
+## Tarefas do coordenador
 - Juntar todo mundo e ORAR assim que estiverem todos.
 - Ligar a varas cênicas no quadro geral embaixo do púlpito.
 
@@ -11,7 +11,7 @@
 - Ligar PC de legendas
 - Ligar PC do Chat
 
-## Por papel desempenhado
+## Tarefas de início do culto por pessoa
 <table>
   <tr>
     <th>Controlador de Imagens</th>
@@ -56,3 +56,7 @@
     <td>Desativar opção de Chat no YouTube</td><!--Chat-->
   </tr>
 </table>
+
+## Fim de culto
+
+- Operador do chat deve definir a descrição e título do vídeo no YouTube e Facebook.
