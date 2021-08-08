@@ -8,6 +8,7 @@
 **Se ligar fora dessa ordem proposta podem haver problemas.**
 - Hack, ligar duas réguas
 - Ligar MiniMac, digitar senha e esperar abrir tudo
+- Ligar o projetor pelo MiniMac
 - Ligar PC de legendas
 - Ligar PC do Chat
 
@@ -23,7 +24,7 @@
     <td>Conferir Internet</td><!--StreamDeck-->
     <td>Ligar TV central se estiver desligada</td><!--PTZ-->
     <td>Ver no MultiView, se a imagem do ProPresenter está indo para a ATEM</td><!--Legendas-->
-    <td>Ligar todas as TVs eo Projetor</td><!--Chat-->
+    <td>Ligar todas as TVs</td><!--Chat-->
   </tr>
   <tr>
     <td>Testar Stream Deck</td><!--StreamDeck-->
@@ -32,7 +33,7 @@
     <td>Testar página Stream Deck</td><!--Chat-->
   </tr>
   <tr>
-    <td>Definir "Culto ao Vivo" no Restream</td><!--StreamDeck-->
+    <td>Definir "Culto ao Vivo" no Restream e desligar canais do Pr Odair</td><!--StreamDeck-->
     <td>Ligar sistema de iluminação</td><!--PTZ-->
     <td>Revisar PowerPoint da Palavra</td><!--Legendas-->
     <td>Ativar avisos nas TVs e ligar botão Avisos no Stream Deck</td><!--Chat-->
