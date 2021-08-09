@@ -33,7 +33,7 @@
     <td>Testar página Stream Deck</td><!--Chat-->
   </tr>
   <tr>
-    <td>Definir "Culto ao Vivo" no Restream e desligar canais do Pr Odair</td><!--StreamDeck-->
+    <td>Definir "Culto ao Vivo" no Restream</td><!--StreamDeck-->
     <td>Ligar sistema de iluminação</td><!--PTZ-->
     <td>Revisar PowerPoint da Palavra</td><!--Legendas-->
     <td>Ativar avisos nas TVs e ligar botão Avisos no Stream Deck</td><!--Chat-->
