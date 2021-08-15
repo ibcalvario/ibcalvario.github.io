@@ -36,7 +36,11 @@
     <td>Definir "Culto ao Vivo" no Restream</td><!--StreamDeck-->
     <td>Ligar sistema de iluminação</td><!--PTZ-->
     <td>Revisar PowerPoint da Palavra</td><!--Legendas-->
-    <td>Ativar avisos nas TVs / Ligar botão Avisos no Stream Deck / Bloquear áudio</td><!--Chat-->
+    <td>
+    - Ativar avisos nas TVs<br />
+    - Ligar botão Avisos no Stream Deck<br />
+    - Bloquear áudio
+    </td><!--Chat-->
   </tr>
   <tr>
     <td>Conferir vídeo de abertura no VLC e testar</td><!--StreamDeck-->
