@@ -13,7 +13,7 @@
 - Ligar PC do Chat
 
 ## Tarefas de início do culto por pessoa
-<table>
+<table border="1">
   <tr>
     <th>Controlador de Imagens</th>
     <th>Operador de Câmeras</th>
@@ -38,14 +38,13 @@
     <td>Revisar PowerPoint da Palavra</td><!--Legendas-->
     <td>
     - Ativar avisos nas TVs<br />
-    - Ligar botão Avisos no Stream Deck<br />
-    - Bloquear áudio
+    - Ligar botão Avisos no Stream Deck
     </td><!--Chat-->
   </tr>
   <tr>
     <td>Conferir vídeo de abertura no VLC e testar</td><!--StreamDeck-->
     <td>Testar iluminação</td><!--PTZ-->
-    <td></td><!--Legendas-->
+    <td>Pedir para mesa de som bloquear áudio</td><!--Legendas-->
     <td>Testar fone de ouvido</td><!--Chat-->
   </tr>
   <tr>
@@ -62,14 +61,23 @@
   </tr>
 </table>
 
-## Abertura
-- Libera o áudio
-- Dá o play no VLC
-- Aperta o botão "MAC"
-- No final do vídeo aperta novamente o botão "MAC", câmera central vai para o program
+## Abertura (Stream Deck)
+<table border="1">
+  <tr>
+    <td align="center">1</td>
+    <td align="center">2</td>
+    <td align="center">3</td>
+    <td align="center">4</td>
+  </tr>
+  <tr>
+    <td>Libera o áudio</td>
+    <td>Play no VLC</td>
+    <td>Apertar o botão "MAC"</td>
+    <td>No final do vídeo aperta novamente o botão "MAC"</td>
+  </tr>
+</table>
 
 ## Fim de culto
-
 - Operador do chat deve definir a descrição e título do vídeo no YouTube e Facebook
 - Desligar Mini-Mac, PCs, TVs e Projetor
 - Coordenador desligar iluminação no quadro
