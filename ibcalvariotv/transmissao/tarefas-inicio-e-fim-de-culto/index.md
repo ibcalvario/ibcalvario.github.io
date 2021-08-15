@@ -1,5 +1,5 @@
 # Tarefas do início e fim de culto
-
+ 
 ## Tarefas do coordenador
 - Juntar todo mundo e ORAR assim que estiverem todos.
 - Ligar a varas cênicas no quadro geral embaixo do púlpito.
