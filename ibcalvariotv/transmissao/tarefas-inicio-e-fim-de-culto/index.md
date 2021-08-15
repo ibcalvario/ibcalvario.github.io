@@ -36,7 +36,7 @@
     <td>Definir "Culto ao Vivo" no Restream</td><!--StreamDeck-->
     <td>Ligar sistema de iluminação</td><!--PTZ-->
     <td>Revisar PowerPoint da Palavra</td><!--Legendas-->
-    <td>Ativar avisos nas TVs e ligar botão Avisos no Stream Deck</td><!--Chat-->
+    <td>Ativar avisos nas TVs / Ligar botão Avisos no Stream Deck / Bloquear áudio</td><!--Chat-->
   </tr>
   <tr>
     <td>Conferir vídeo de abertura no VLC e testar</td><!--StreamDeck-->
@@ -45,18 +45,24 @@
     <td>Testar fone de ouvido</td><!--Chat-->
   </tr>
   <tr>
-    <td>Testar comunicadores Hollyland</td><!--StreamDeck-->
+    <td>Calcular início baseado no tempo do vídeo de abertura</td><!--StreamDeck-->
     <td>Ajuste dos Preset's</td><!--PTZ-->
     <td></td><!--Legendas-->
     <td>Ligar celular e ativar o WhatsApp Web</td><!--Chat-->
   </tr>
   <tr>
-    <td></td><!--StreamDeck-->
+    <td>Testar comunicadores Hollyland</td><!--StreamDeck-->
     <td></td><!--PTZ-->
     <td></td><!--Legendas-->
     <td>Desativar opção de Chat no YouTube</td><!--Chat-->
   </tr>
 </table>
+
+## Abertura
+- Libera o áudio
+- Dá o play no VLC
+- Aperta o botão "MAC"
+- No final do vídeo aperta novamente o botão "MAC", câmera central vai para o program
 
 ## Fim de culto
 
