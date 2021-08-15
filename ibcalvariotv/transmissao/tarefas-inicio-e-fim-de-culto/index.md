@@ -48,7 +48,7 @@
     <td>Testar fone de ouvido</td><!--Chat-->
   </tr>
   <tr>
-    <td>Calcular início baseado no tempo do vídeo de abertura</td><!--StreamDeck-->
+    <td>Calcular horário do play do vídeo de abertura</td><!--StreamDeck-->
     <td>Ajuste dos Preset's</td><!--PTZ-->
     <td></td><!--Legendas-->
     <td>Ligar celular e ativar o WhatsApp Web</td><!--Chat-->
