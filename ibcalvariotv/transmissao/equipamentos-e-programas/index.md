@@ -92,7 +92,7 @@ TODO: Falta detalhar.
 ## [Cameras PTZ](#)
 São câmeras capazes de movimentar, guardar e carregar posições, mudar propriedades da imagem, etc...
 
-TODO: Links e foto
+TODO: Listar câmeras e posições.
 
 ## [Controlador de PTZs 1](#)
 Controla as ações das câmeras PTZs.
@@ -101,10 +101,10 @@ TODO: Pegar modelo e mudar o título\
 TODO: Links e foto\
 TODO: Link para guia de operação
 
-## [Controlador de PTZs VS PTC IP](https://www.marshall-usa.com/pdf/Marshall_VS-PTC-IP_manualV3.pdf)
-Controla as ações das câmeras PTZs.
+## [Controlador de PTZs VS PTC IP](controlador-ptz-vs-ptc-ip)
 
-![Controlador de PTZs VS PTC IP](controle-ptz-vs-ptc-ip.png)
+Movimenta e controla as ações das seguintes câmeras PTZs.
+- TODO: Câmera 1
+- TODO: Câmera 2
 
-TODO: Link para guia de operação\
-TODO: Tradução das principais funcionalidades
+Mais detalhes [aqui](controlador-ptz-vs-ptc-ip).
