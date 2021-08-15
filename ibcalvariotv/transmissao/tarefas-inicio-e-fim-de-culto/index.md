@@ -13,7 +13,7 @@
 - Ligar PC do Chat
 
 ## Tarefas de início do culto por pessoa
-<table border="1">
+<table>
   <tr>
     <th>Controlador de Imagens</th>
     <th>Operador de Câmeras</th>
@@ -62,7 +62,7 @@
 </table>
 
 ## Abertura (Stream Deck)
-<table border="1">
+<table>
   <tr>
     <td align="center">1</td>
     <td align="center">2</td>
