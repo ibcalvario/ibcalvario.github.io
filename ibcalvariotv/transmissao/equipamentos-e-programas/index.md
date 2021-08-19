@@ -106,5 +106,7 @@ TODO: Link para guia de operação
 Movimenta e controla as ações das seguintes câmeras PTZs.
 - TODO: Câmera 1
 - TODO: Câmera 2
+- TODO: Câmera 3
+- TODO: Câmera 4
 
 Mais detalhes [aqui](controlador-ptz-vs-ptc-ip).
