@@ -7,3 +7,4 @@ plugins:
 
 title: IBCalvários
 description: Repositório de documentação da Igreja Batista do Calvário de Santo André
+theme: jekyll-theme-leap-day
