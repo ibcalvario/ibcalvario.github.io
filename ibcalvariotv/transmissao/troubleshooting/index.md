@@ -19,4 +19,10 @@ Para isso clique no ícone do BitFocus na barra de cima do Desktop no Mini-Mac (
 - Posicionar o mouse sobre o miniatura do aplicativo na barra de tarefas conforme [imagem](mover-chrome-avisos.png).
 - Clicar com o botão direito do mouse em cima da miniatura e selecionar a opção "Mover".
 - Aperte a seta para cima no teclado.
-- Mova o mouse e perceba que está movendo a janela.
+- Mova o mouse e perceba que está movendo a janela toda.
+
+## Avisos não estão aparecendo
+
+- Procurar por uma janela preta, no monitor principal ou no Multi-View.
+- Arrastar essa janela para o segundo monitor (aparece no Multi-view).
+- Caso as bordas e título da janela estejam aparecendo selecionar a janela e pressionar F11 pra ocupar a tela toda.
