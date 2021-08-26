@@ -23,7 +23,7 @@ Para isso clique no ícone do BitFocus na barra de cima do Desktop no Mini-Mac (
 
 ## Avisos não estão aparecendo
 
-- Procurar por uma janela preta, no monitor principal ou no Multi-View.
+- Procurar por uma janela preta, no monitor principal ou no [Multi-View](/ibcalvariotv/transmissao/equipamentos-e-programas#monitor-multi-view).
 - Arrastar essa janela para o segundo monitor (aparece no Multi-view).
 - Caso as bordas e título da janela estejam aparecendo selecionar a janela e pressionar F11 pra ocupar a tela toda.
 
