@@ -15,3 +15,4 @@ Seria o conjunto de coisas que fazemos para unir diversas ações e gerar um ví
 - [Relação das cenas das PTZ's](https://docs.google.com/forms/d/e/1FAIpQLSeXEsR-l0ivqx7HLGRimf0jaF3FTjfNlw2v1qkcfZQ2UEY5JA/viewform)
 - [Criação de PowerPoint da palavra](criacao-power-point-palavra)
 - [Criação de louvor no ProPresenter](criacao-de-louvor-no-propresenter)
+- [Resolvendo problemas (Troubleshooting)](troubleshooting)
