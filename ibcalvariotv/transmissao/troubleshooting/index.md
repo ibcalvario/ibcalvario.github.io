@@ -23,9 +23,10 @@ Para isso clique no ícone do BitFocus na barra de cima do Desktop no Mini-Mac (
 
 ## Avisos não estão aparecendo
 
-- Procurar por uma janela preta, no monitor principal ou no [Multi-View](/ibcalvariotv/transmissao/equipamentos-e-programas#monitor-multi-view).
-- Arrastar essa janela para o segundo monitor (aparece no Multi-view).
-- Caso as bordas e título da janela estejam aparecendo selecionar a janela e pressionar F11 pra ocupar a tela toda.
+- No [computador de avisos](/ibcalvariotv/transmissao/equipamentos-e-programas/#computador-do-chat-e-avisos) mova o mouse para além da esquerda do monitor principal, perceba que o mouse está se movimentando na tela de avisos do [Multi-View](/ibcalvariotv/transmissao/equipamentos-e-programas#monitor-multi-view).
+- Procurar por uma janela preta, no monitor principal ou no Multi-View.
+- Clicando e segurando o botão do mouse sobre a barra de título, mova a janela para o segundo monitor (tela no Multi-view).
+- Caso as bordas e título da janela estejam aparecendo, selecionar a janela e pressionar F11 pra ocupar a tela toda.
 
 ## Controlador da PTZ não está funcionando
 
