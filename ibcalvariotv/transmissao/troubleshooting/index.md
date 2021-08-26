@@ -26,3 +26,21 @@ Para isso clique no ícone do BitFocus na barra de cima do Desktop no Mini-Mac (
 - Procurar por uma janela preta, no monitor principal ou no Multi-View.
 - Arrastar essa janela para o segundo monitor (aparece no Multi-view).
 - Caso as bordas e título da janela estejam aparecendo selecionar a janela e pressionar F11 pra ocupar a tela toda.
+
+## Controlador da PTZ não está funcionando
+
+## Botão no Stream Deck não está funcionando
+
+## Projetor não liga
+
+## TV não liga
+
+## Câmera perdendo foco constantemente
+
+## Branco da câmera está muito forte
+
+## Vermelho do carpete está rosa
+
+## Comunicador parou de funcionar
+
+## Som do vídeo de abertura "estourando"
