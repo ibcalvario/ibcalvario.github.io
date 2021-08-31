@@ -20,8 +20,8 @@
 
 title: IBCalvário
 description: Repositório de documentação da Igreja Batista do Calvário de Santo André
-url: https://ibcalvario.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: ""      # place folder name if the site is served in a subfolder
+url: https://marcelocfsf.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: "/ibcalvario.github.io/"      # place folder name if the site is served in a subfolder
 domain: my-site.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -36,6 +36,7 @@ remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme 
 
+<<<<<<< HEAD
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -56,3 +57,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+=======
+title: IBCalvários
+description: Repositório de documentação da Igreja Batista do Calvário de Santo André
+theme: jekyll-theme-leap-day
+>>>>>>> d85985b0d73d3c22e176e966d4872f6eaac1b631
