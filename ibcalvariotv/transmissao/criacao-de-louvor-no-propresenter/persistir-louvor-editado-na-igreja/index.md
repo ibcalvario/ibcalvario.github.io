@@ -1,4 +1,10 @@
 # Persistir louvor editado na igreja
+{: .no_toc}
+
+Índice
+* TOC
+{:toc}
+---
 
 ## Entenda o contexto
 Os louvores ficam persistidos em um repositório git, isso quer dizer que:
