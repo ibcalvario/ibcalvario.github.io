@@ -17,7 +17,7 @@ A equipe de revisão pode alterar, a equipe de operação não pode alterar, ape
 
 A impressão de quem está na operação é de que pode alterar os louvores, isso porque o ProPresenter deixa alterar.
 
-Mas o que está sendo alterado é uma cópia que está só no computador local lá na igreja. Toda vez que o computador essa pasta com os louvores voltam a ser igual é no repositório Git, ou seja, nesse momento perde-se todas as alterações feitas ali na hora.
+Mas o que está sendo alterado é uma cópia que está só no computador local lá na igreja. Toda vez que o computador é reiniciado, essa pasta com os louvores voltam a ser igual a do repositório Git, ou seja, nesse momento perde-se todas as alterações feitas ali na hora.
 
 Optamos por trabalhar assim porque senão a equipe de revisão perde o controle do que está sendo alterado nas letras uma vez que a equipe de operação tem muita gente e que não vão prestar atenção nos [detalhes](..) da edição.
 
