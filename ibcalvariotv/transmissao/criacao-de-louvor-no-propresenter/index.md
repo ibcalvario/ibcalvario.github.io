@@ -124,4 +124,6 @@ Se tudo estiver correto clique em Importar e pronto um novo louvor será inserid
 
 > TODO: Incluir edição de um louvor já existente
 
-> TODO: Incluir o funcionamento do Git no lado de quem edita e as características de funcionamento na igreja (quando reinicião o computador faz o reset).
+TODO: Incluir o funcionamento do Git no lado de quem edita e as características de funcionamento na igreja (quando reiniciao o computador faz o reset).
+
+[Persistir louvor editado na igreja](persistir-louvor-editado-na-igreja)
