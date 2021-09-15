@@ -99,6 +99,9 @@ São câmeras capazes de movimentar, guardar e carregar posições, mudar propri
 | 3      | Direita  | Marshal
 | 4      | Teto     | NEOid
 
+## [Monitor Multi-View](#)
+Monitor ligado a saída Multi-View da [ATEM](#atem), vai mostrar várias câmeras de uma vez, podendo ser personalizado nas configurações da ATEM.
+
 ## [Controlador de PTZs 1](#)
 Controla as ações das câmeras PTZs.
 
