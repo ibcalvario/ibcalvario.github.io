@@ -92,7 +92,12 @@ TODO: Falta detalhar.
 ## [Cameras PTZ](#)
 São câmeras capazes de movimentar, guardar e carregar posições, mudar propriedades da imagem, etc...
 
-TODO: Listar câmeras e posições.
+| Numero | Posição  | Marca
+|  ---   |   ---    |  ---
+| 1      | Central  | Marshal
+| 2      | Esquerda | Marshal
+| 3      | Direita  | Marshal
+| 4      | Teto     | NEOid
 
 ## [Controlador de PTZs 1](#)
 Controla as ações das câmeras PTZs.
