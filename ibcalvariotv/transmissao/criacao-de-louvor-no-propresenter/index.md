@@ -1,7 +1,7 @@
 # Criação de louvor no ProPresenter
-<a onclick="window.history.back()">Back</a>
-
 {: .no_toc}
+
+<button name="Back" onclick="window.history.back()">Back</button>
 
 Índice
 * TOC
@@ -13,17 +13,7 @@
   }
 </style>
 
-Os louvores são transmitidos através de um software chamado [Pro Presenter 6](https://renewedvision.com/propresenter/). 
-
-Ele é gratuito, porém sem algumas funcionalidades, além de conter uma marca d'agua ao transmitir algo.
-
-![Marca D'agua no ProPresenter6](marcadagua.png)
-
-<!-- <video width="100%" controls>
-  <source src="https://renewedvision.com/wp-content/uploads/2020/01/promo.mp4" type="video/mp4">
-</video> -->
-
-Ele possui diversas funcionalidades, porém o usamos apenas para transmitir a letra dos louvores. Para isso é colocado um fundo verde atrás das letras e um software muda o verde por outra imagem (Pro exemplo das Cameras). Essa técnica é chamada de [chroma key](https://pt.wikipedia.org/wiki/Chroma_key).
+Aqui iremos como criar novos louvores para o Pro Presenter. Para mais informações sobre o software e como opera-lo veja [aqui](../equipamentos-e-programas/propresenter/index.md).
 
 <!-- Colocar imagem de exemplo do chroma key -->
 
@@ -35,7 +25,7 @@ Para criarmos um novo louvor é necessário criar um arquivo e inseri-lo no Pro 
 
 Primeiramente pegue a letra do louvor desejado, seja na internet ou outra fonte. Depois crie um arquivo usando essa letra.
 
-Para criar o arquivo de letras, pode ser usado um editor de texto como o **Bloco de Notas** ![Bloco de Notas](notepad.png), Word ![Word](word.png) ou Notepad++ ![Notepad ++](notepad++.png). É aconselhável que o editor escolhido tenha opção de deixar todas as letras em caixa alta (Maiúsculas), pois esse é o padrão das letras na igreja, e permitir controlar trocar a codificação para Ansi.
+Para criar o arquivo de letras, pode ser usado um editor de texto como o **Bloco de Notas** ![Bloco de Notas](notepad.png), Word ![Word](word.png) ou Notepad++ ![Notepad ++](notepadpp.png). É aconselhável que o editor escolhido tenha opção de deixar todas as letras em caixa alta (Maiúsculas), pois esse é o padrão das letras na igreja, e permitir controlar trocar a codificação para Ansi.
 
 * O **Bloco de Notas** permite alterar a codificação, mas não alterar todas as letras para maiúscula.
 
@@ -49,12 +39,12 @@ Para criar o arquivo de letras, pode ser usado um editor de texto como o **Bloco
 
 <div class="multiColumn">
   <div class="column">
-    <img src="notepad++Cod.png" alt="Alterando codificação no Notepad++">
+    <img src="notepadppCod.png" alt="Alterando codificação no Notepad++">
     <br>
     <strong>Alterando codificação no Notepad++</strong>
   </div>
   <div class="column">
-    <img src="notepad++UpperCase.png" alt="Alterando letras para maiúsculas no Notepad++">
+    <img src="notepadppUpperCase.png" alt="Alterando letras para maiúsculas no Notepad++">
     <strong>Alterando letras para maiúsculas no Notepad++</strong>
   </div>
 </div>
