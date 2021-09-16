@@ -8,8 +8,8 @@
 {:toc}
 
 <style>
-  .multiColumn {
-    column-count: 2;
+  td, th {
+   border: none!important;
   }
 </style>
 
@@ -37,32 +37,22 @@ Para criar o arquivo de letras, pode ser usado um editor de texto como o **Bloco
 
 * O **Notepad++** permite as duas funções.
 
-<div class="multiColumn">
-  <div class="column">
-    <img src="notepadppCod.png" alt="Alterando codificação no Notepad++">
-    <br>
-    <strong>Alterando codificação no Notepad++</strong>
-  </div>
-  <div class="column">
-    <img src="notepadppUpperCase.png" alt="Alterando letras para maiúsculas no Notepad++">
-    <strong>Alterando letras para maiúsculas no Notepad++</strong>
-  </div>
-</div>
+
+| ![Alterando codificação no Notepad++](notepadppCod.png) |
+|:--:|
+| *Alterando codificação no Notepad++* |
+
+| ![Alterando letras para maiúsculas no Notepad++](notepadppUpperCase.png) |
+|:--:|
+| *Alterando letras para maiúsculas no Notepad++* |
 
 Portanto é possível usar o Word em conjunto com o Bloco de Notas ou o Notepad++.
 
 Copie e cole a letra desejada no editor e separe em conjuntos de linhas o louvor desejado segundo o padrão desejado:
 
-<div class="multiColumn">
-  <div class="column">
-    <img src="linhasBanda.png" alt="Padrão de Linhas Banda">
-    <strong>Banda: No máximo duas linhas</strong>
-  </div>
-  <div class="column">
-    <img src="linhasJovens.png" alt="Padrão de Linhas Jovens">
-    <strong>Jovens: No máximo cinco linhas</strong>
-  </div>
-</div>
+| | ![Padrão de Linhas Banda](linhasBanda.png) | | | ![Padrão de Linhas Jovens](linhasJovens.png) | |
+| | :--:                                       | | | :--:                                         | |
+| | *Banda: No máximo duas linhas*             | | | *Jovens: No máximo cinco linhas*             | |
 
 Sempre tenha o cuidado de separar as linhas de forma a facilitar a operação. Isso pode ser feito: 
 
