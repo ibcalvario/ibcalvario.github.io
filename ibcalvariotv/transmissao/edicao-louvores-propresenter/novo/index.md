@@ -109,9 +109,3 @@ Clicando em editar veremos como o arquivo foi importado e também permite altera
 Se tudo estiver correto clique em Importar e pronto um novo louvor será inserido no pro presenter
 
 ![Configurações de Importação](importEnd.png)
-
-<!-- ## Edição um louvor já existente -->
-
-> TODO: Incluir edição de um louvor já existente
-
-TODO: Incluir o funcionamento do Git no lado de quem edita e as características de funcionamento na igreja (quando reiniciao o computador faz o reset).
