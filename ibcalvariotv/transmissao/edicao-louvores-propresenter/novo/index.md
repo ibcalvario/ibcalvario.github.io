@@ -15,11 +15,9 @@ Aqui iremos como criar novos louvores para o Pro Presenter. Para mais informaç�
 
 <!-- Colocar imagem de exemplo do chroma key -->
 
-## Criando um novo louvor
+## Criando o arquivo
 
 Para criarmos um novo louvor é necessário criar um arquivo e inseri-lo no Pro Presenter usando o padrão.
-
-### Criando o arquivo
 
 Primeiramente pegue a letra do louvor desejado, seja na internet ou outra fonte. Depois crie um arquivo usando essa letra.
 
@@ -60,7 +58,7 @@ Sempre tenha o cuidado de separar as linhas de forma a facilitar a operação. I
 
 > &#9888; Muitas vezes o louvor é cantado de forma diferente na igreja em relação ao original. Por isso busque ouvir o louvor, seja de cultos anteriores, no ensaio ou através de nossa [audioteca](https://www.dropbox.com/sh/0qsq9cuuwt9zjec/AAAA8-EbGFNkeiE3NZj5GXZea?dl=0&lst=) <!-- Adicionar link -->.
 
-### Modelo
+## Modelo
 
 Vamos ver como criar um novo modelo segundo o padrão da igreja. Tanto para usa-lo caso não tenha no PC, quanto para entender suas características.
 
@@ -90,7 +88,7 @@ Vamos ver como criar um novo modelo segundo o padrão da igreja. Tanto para usa-
 
 E com isso está finalizado o nosso modelo. Agora podemos usá-lo como base para os louvores seguintes.
 
-### Importando o Arquivo
+## Importando o Arquivo
 
 Tendo o modelo pronto, vamos importar o arquivo que foi criado anteriormente dentro do pro presenter. Para isso abra o pro presenter e na parte superior clique em Arquivo -> Importar -> Importar Arquivo...
 
