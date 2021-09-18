@@ -88,7 +88,7 @@ Vamos ver como criar um novo modelo segundo o padrão da igreja. Tanto para usa-
 
 E com isso está finalizado o nosso modelo. Agora podemos usá-lo como base para os louvores seguintes.
 
-## Importando o Arquivo
+## Importando o arquivo
 
 Tendo o modelo pronto, vamos importar o arquivo que foi criado anteriormente dentro do pro presenter. Para isso abra o pro presenter e na parte superior clique em Arquivo -> Importar -> Importar Arquivo...
 
