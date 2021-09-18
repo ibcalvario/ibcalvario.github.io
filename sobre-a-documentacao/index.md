@@ -35,6 +35,10 @@ Todas as alterações desse procedimento devem ser feitas via [Fork](https://doc
 
 ## Rodando localmente
 
+Escolhe uma das instalações de sua preferência, se direto no computador ou via docker e depois faça o teste no navegador.
+
+### Instação direta no seu computador
+
 Para rodar são necessários:
 - Linguagem [Ruby](ruby-lang.org/pt/) (Precisa ser a versão 2.7.0)
 - [Gems](https://rubygems.org/) (Já vem instalado com o ruby)
@@ -43,6 +47,16 @@ Para rodar são necessários:
 Com isso instalado execute `bundle install` no terminal ou cmd, para instalar as dependências. 
 
 Depois execute `bundle exec jekyll serve --livereload` para iniciar o servidor (A opção **--livereload** serve para atualizar a página quando uma mudança for feita). 
+
+### Instalação via Docker
+
+Via terminar entre na pasta aonde está o projeto através do comando `cd` e digite o seguinte comando.
+
+```shell
+docker run -d --name=preview-doc-calvario --volume="$PWD:/srv/jekyll" --publish [::1]:4000:4000 jekyll/jekyll jekyll serve
+```
+
+### Abrindo no navegador
 
 Depois abra o seu navegador e digite o endereço **http://127.0.0.1:4000/**.
 
