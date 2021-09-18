@@ -1,8 +1,6 @@
 # Criação de louvor no ProPresenter
 {: .no_toc}
 
-<button name="Back" onclick="window.history.back()">Back</button>
-
 Índice
 * TOC
 {:toc}
