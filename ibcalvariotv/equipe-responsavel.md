@@ -11,5 +11,5 @@ TODO: Ajustar e-mails.
 
 - [Denis Nietto (líder)](mailto:denisnietto@yahoo.com.br)
 - [Gustavo](mailto:gustavoh908@gmail.com)
-- [Marcelo](mailto:marcelo@hotmail.com)
+- [Marcelo](mailto:marcelo.cfsf@gmail.com)
 - [Wellington](mailto:wellington@hotmail.com)

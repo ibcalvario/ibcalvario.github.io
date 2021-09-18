@@ -10,6 +10,10 @@
 
 É um software que pode ser instalado no Windows ou Mac que tem como finalidade principal apresentar as letras dos louvores em uma tela, normalmente a saída é um projetor ou televisão.
 
+Ele é gratuito, porém sem algumas funcionalidades, além de conter uma marca d'agua ao apresentar algo.
+
+![Marca D'agua no ProPresenter6](marcadagua.png)
+
 ## Como utilizamos no Calvário
 
 A saída do ProPresenter vai para um segundo monitor, que é capturado pela [ATEM](/ibcalvariotv/transmissao/equipamentos-e-programas/#atem).
