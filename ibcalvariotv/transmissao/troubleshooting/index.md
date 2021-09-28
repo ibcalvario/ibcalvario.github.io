@@ -13,14 +13,14 @@ Em caso de queda do link principal de internet, ou problemas de performance no s
 - Pressione HELO 720 para mudar a resolução do streaming para uma qualidade inferior.
 - Pressione HELP START para iniciar o streaming novamente.
 
-([imagem](queda-sinal-internet.png))
+![Queda de sinal de Internet](queda-sinal-internet.png "Queda de sinal de Internet")
 
 ## Internet Upload Inferior a 10Mbps
 
 Aqui é quando 
 Para não impactar o Streaming do YouTube, altere o profile do AJA HELO para 720, pressionando a tecla HELO 720 no Stream Deck indicada na imagem.
 
-([imagem](atenuar-sinal-transmissao.png))
+![Atenuar sinal da transmissão](atenuar-sinal-transmissao.png "Atenuar sinal da transmissão")
 
 ## Stream Deck não funciona
 
@@ -59,6 +59,7 @@ Para isso clique no ícone do BitFocus na barra de cima do Desktop no Mini-Mac (
 - Idem ao projetor, se não funcionar pelo celular, tente pelo controle remoto localizado na gaveta.
 
 ## Itens pendentes a definir troubleshooting
+
 - Controlador da PTZ não está funcionando
 - Câmera perdendo foco constantemente
 - Branco da câmera está muito forte
