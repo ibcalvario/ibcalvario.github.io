@@ -60,6 +60,7 @@ Para isso clique no ícone do BitFocus na barra de cima do Desktop no Mini-Mac (
 
 ## Itens pendentes a definir troubleshooting
 
+- Como desligar um dispositivo apenas do hack através da régua inteligente.
 - Controlador da PTZ não está funcionando
 - Câmera perdendo foco constantemente
 - Branco da câmera está muito forte
