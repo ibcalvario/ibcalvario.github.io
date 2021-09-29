@@ -16,7 +16,7 @@ Enviar para o ministério, via WhatsApp, a resposta para as perguntas desse [for
 
 Se for transmitir o evento devem ser considerados os seguintes pontos.
 
-### Anter de transmitir
+### Antes de transmitir
 Devemos fazer a transmissão utilizando a opção de visibilidade "Não-indexado" no YouTube e expalhar o link do evento manualmente por grupos de WhatsApp.
 
 Importante considerar que a transmissão só será possível para o YouTube porque não temos controle de visibilidade sobre transmissões de Facebook. TODO: Confirmar.
