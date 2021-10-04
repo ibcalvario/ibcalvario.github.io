@@ -21,7 +21,7 @@ Não altere fontes, estilo, negrito, itálico, tamanhos, etc...
 ## Exceções
 Caso o pregador peça algo que fuja do que foi estabelecido nesse documento, tente negociar explicando que existe toda uma logística por trás.
 
-Caso ele insista, compartilhe o caso com o grupo que cuida desse tema ou avise porsteriormente caso não tenha tempo hábil para isso.
+Caso ele insista, compartilhe o caso com o grupo que cuida desse tema ou avise posteriormente caso não tenha tempo hábil para isso.
 
 ## Ordem dos slides
 Os slides devem sempre seguir essa ordem.
@@ -104,7 +104,7 @@ Também é possível que o pregador não envie o conteúdo a tempo, nesse caso a
 
 ## Vídeo de demonstração
 
-A idéia do vídeo abaixo é facilitar a compreensão mostrando na prática, como criar o PowerPoint da Palavra.
+A ideia do vídeo abaixo é facilitar a compreensão mostrando na prática, como criar o PowerPoint da Palavra.
 
 **Se aqui no vídeo, algo não estar compatível com as regras definidas acima, o que deve prevalecer são as regras escritas no documento, não o que aparece no vídeo.**
 

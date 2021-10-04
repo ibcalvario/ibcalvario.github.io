@@ -10,7 +10,7 @@ TODO: Revisar e terminar
 
 TODO: Usar esse [vídeo](https://youtu.be/CFmrBNZVsIs) como referência.
 
-TODO: Citar os momentos de atençao citando o vídeo de referência posicionado no momento propício utilizando o parâmetro "t" do YouTube, como nesse [exemplo](https://youtu.be/CFmrBNZVsIs?t=839).
+TODO: Citar os momentos de atenção citando o vídeo de referência posicionado no momento propício utilizando o parâmetro "t" do YouTube, como nesse [exemplo](https://youtu.be/CFmrBNZVsIs?t=839).
 
 ## Início da transmissão
 Durante a reprodução do vídeo de abertura certifique-se de que a câmera central está com foco no ministro.

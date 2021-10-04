@@ -17,7 +17,7 @@ Enviar para o ministério, via WhatsApp, a resposta para as perguntas desse [for
 Se for transmitir o evento devem ser considerados os seguintes pontos.
 
 ### Antes de transmitir
-Devemos fazer a transmissão utilizando a opção de visibilidade "Não-indexado" no YouTube e expalhar o link do evento manualmente por grupos de WhatsApp.
+Devemos fazer a transmissão utilizando a opção de visibilidade "Não-indexado" no YouTube e espalhar o link do evento manualmente por grupos de WhatsApp.
 
 Importante considerar que a transmissão só será possível para o YouTube porque não temos controle de visibilidade sobre transmissões de Facebook. TODO: Confirmar.
 
@@ -25,7 +25,7 @@ Importante considerar que a transmissão só será possível para o YouTube porq
 
 ### Após a transmissão
 Voltar a opção de visibilidade para "Público".\
-**Esse passo também é muito importante** pois históricamente já aconteceu muito dessa opção estar errada na hora de iniciar cultos que devem ser públicos.
+**Esse passo também é muito importante** pois historicamente já aconteceu muito dessa opção estar errada na hora de iniciar cultos que devem ser públicos.
 
 ### Streaming apropriado
 Para enviar o vídeo como não-indexado e somente apontando para o YouTube devemos seguir os seguintes passos.

@@ -1,4 +1,4 @@
-# Documentacão IBCalvarioTV
+# Documentação IBCalvarioTV
 
 - [Propósito](proposito.md)
 - [Organograma](organograma/)
