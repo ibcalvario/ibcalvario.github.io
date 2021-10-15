@@ -1,4 +1,4 @@
-# Documentacão IBCalvarioTV
+# Documentação IBCalvarioTV
 
 - [Propósito](proposito.md)
 - [Próximos passos](proximos-passos/)

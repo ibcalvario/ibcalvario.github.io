@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Apresenta avisos avultos e rotativos para a igreja.
+Apresenta avisos avulsos e rotativos para a igreja.
 
 ## Autoria
 
@@ -48,7 +48,7 @@ Ao lado do botão executar dá para customizar a quantidade de segundos em que o
 
 ## Estacionamento
 
-Avisos de estacionamento funcionam da mesma forma que MIEDUC, porém os diáconos que cuidam do estacionamento não acessam diretamento o gerenciador, eles enviam mensagem no nosso WhatsApp exclusivo (temos um celular do ministério para isso), e nós digitamos o modelo e placa do veículo.
+Avisos de estacionamento funcionam da mesma forma que MIEDUC, porém os diáconos que cuidam do estacionamento não acessam diretamente o gerenciador, eles enviam mensagem no nosso WhatsApp exclusivo (temos um celular do ministério para isso), e nós digitamos o modelo e placa do veículo.
 
 Quando clicamos em executar aparece uma mensagem disso para a igreja.
 
@@ -76,7 +76,7 @@ Se quiser remover um aviso ou tirar os avisos rotativos, aperto o botão reset, 
 
 ## Opção Stream Deck
 
-No topo da página de gerenciamente existe uma opção chamada "Stream Deck".\
+No topo da página de gerenciamento existe uma opção chamada "Stream Deck".\
 Se essa opção estiver ativada, o Announcer vai interagir com o BitFocus (isso mesmo, a opção deveria se chamar BitFocus), que por sua vez vai interagir com a ATEM, para retirar a transmissão normal das TVs de aviso.\
 Quando terminar o aviso o Announcer faz o mesmo procedimento porém dessa vez para voltar a imagem da transmissão que estava antes.
 

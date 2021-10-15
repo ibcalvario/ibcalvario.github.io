@@ -53,7 +53,7 @@ Então se eu escrever a palavra terra não deve aparecer nada já que essa palav
 ![Busca pela palavra terra](busca-pela-palavra-terra.png)
 
 Por que encontrou a música Cantai ao Senhor que não tem a palavra terra no seu nome?\
-Isso aconteceu porque existe uma opção que define quando deve ser incluído na busca também o contéudo do louvor, ou seja, sua letra toda.
+Isso aconteceu porque existe uma opção que define quando deve ser incluído na busca também o conteudo do louvor, ou seja, sua letra toda.
 
 Lembra que nesse louvor tem uma parte que diz "Cantai ao Senhor, todas as terras"?\
 Repare que não precisou nem estar escrito a palavra terras, isso porque o computador procura por texto (sequencia de caracteres) e não por palavras.

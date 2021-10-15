@@ -51,7 +51,7 @@ Não podemos deixar a letra muito antes senão fica o texto escrito e ninguém c
 
 O pregador/expositor é quem deve conduzir o andamento dos slides.
 
-Se ele não estiver ciente disso será uma confusão, certifique-se de que ele está conciente disso.
+Se ele não estiver ciente disso será uma confusão, certifique-se de que ele está consciente disso.
 
 A sequencia de apresentação deve seguir os passos a seguir, importante ressaltar que a cada passo o botão letrar deve ser ativado e desativado na sequência.
 
