@@ -15,6 +15,17 @@ Em caso de queda do link principal de internet, ou problemas de performance no s
 
 ![Queda de sinal de Internet](queda-sinal-internet.png "Queda de sinal de Internet")
 
+## ProPresenter mostrando a saída no monitor principal.
+
+Isso acontece normalmente porque os equipamentos são ligados na ordem errada.\
+Importante se atentar para a ordem correta descrita [aqui](/ibcalvariotv/transmissao/tarefas-inicio-e-fim-de-culto/#ligando-os-computadores).
+
+Uma forma de corrigir isso é entrando no menu Arquivo->Preferências do ProPresenter e arrastando a saída para o menu secundário. Depois disso feche as janela e teste novamente.
+
+Isso está ilustrado na imagem abaixo.
+
+![Arrastando saída para o monitor secundário](propresenter-output-errado.png "Arrastando saída para o monitor secundário")
+
 ## Internet Upload Inferior a 10Mbps
 
 Aqui é quando 
