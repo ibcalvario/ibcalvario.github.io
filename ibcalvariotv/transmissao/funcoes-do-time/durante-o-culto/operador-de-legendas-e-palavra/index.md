@@ -9,12 +9,10 @@
 Quem estiver atuando aqui, tem dois momentos bem distintos durante o culto.\
 Ou a pessoa vai estar operando o [ProPresenter](/ibcalvariotv/transmissao/equipamentos-e-programas/propresenter/) passando as letras dos louvores ou o PowerPoint apresentando conteúdo guia da palavra.
 
-## Comunicação com o StreamDeck
-A apresentação deve ser feita com bastante comunicação com quem estiver no [StreamDeck](/ibcalvariotv/transmissao/equipamentos-e-programas/#stream-deck).
+## Ativar e desativar o fundo verde (botão Letras)
+Quando quiser que as legendas do [ProPresenter](/ibcalvariotv/transmissao/equipamentos-e-programas/propresenter/) ou apresentação do PowerPoint apareçam para a igreja é necessário habilitar o botão Letras do [Stream Deck](/ibcalvariotv/transmissao/equipamentos-e-programas/#stream-deck).
 
-Isso porque o fundo verde (botão Letras), deve estar ativo, e assim que não for mais necessário deve ser ativado.
-
-**Isso é bem importante porque o trabalho de quem estiver aqui pode ser inibido para a igreja se o Stream Deck não estiver correto.**
+Isso pode ser feito, de forma mais fácil, pelo utilitário [Tray Lyrics](/ibcalvariotv/transmissao/equipamentos-e-programas/tray-lyrics).
 
 ## Letras do louvor
 A utilização do ProPresenter e como localizar as músicas estão detalhadas e sua [página](/ibcalvariotv/transmissao/equipamentos-e-programas/propresenter/).

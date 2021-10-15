@@ -66,6 +66,13 @@ Também é utilizado para exibir os avisos rotativos antes do início do cultos,
 
 A utilização é mais detalhada [aqui](announcer/).
 
+## [Tray Lyrics](#https://bitbucket.org/ibcalvario/ibcalvariotv/src/master/ibcalvariotv-tray-lyrics/)
+[![Tray Lyrics](tray-lyrics.png "Tray Lyrics")](https://bitbucket.org/ibcalvario/ibcalvariotv/src/master/ibcalvariotv-announcer/)
+
+Software de autoria e domínio do Calvário que serve para agilizar ações do StreamDeck.\
+
+A utilização é mais detalhada [aqui](tray-lyrics/).
+
 ## [MiniMac - Auxiliar de Transmissão](#) {#auxiliar-de-transmissao}
 Este computador tem o aplicativo que opera diretamente a ATEM caso necessário.\
 Também tem o [VLC](#vlc) instalado para reproduzir vídeos.
