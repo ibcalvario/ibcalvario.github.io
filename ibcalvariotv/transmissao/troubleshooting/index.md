@@ -15,7 +15,14 @@ Em caso de queda do link principal de internet, ou problemas de performance no s
 
 ![Queda de sinal de Internet](queda-sinal-internet.png "Queda de sinal de Internet")
 
-## ProPresenter mostrando a saída no monitor principal.
+## Internet Upload Inferior a 10Mbps
+
+Aqui é quando 
+Para não impactar o Streaming do YouTube, altere o profile do AJA HELO para 720, pressionando a tecla HELO 720 no Stream Deck indicada na imagem.
+
+![Atenuar sinal da transmissão](atenuar-sinal-transmissao.png "Atenuar sinal da transmissão")
+
+## ProPresenter mostrando a saída no monitor principal
 
 Isso acontece normalmente porque os equipamentos são ligados na ordem errada.\
 Importante se atentar para a ordem correta descrita [aqui](/ibcalvariotv/transmissao/tarefas-inicio-e-fim-de-culto/#ligando-os-computadores).
@@ -25,13 +32,6 @@ Uma forma de corrigir isso é entrando no menu Arquivo->Preferências do ProPres
 Isso está ilustrado na imagem abaixo.
 
 ![Arrastando saída para o monitor secundário](propresenter-output-errado.png "Arrastando saída para o monitor secundário")
-
-## Internet Upload Inferior a 10Mbps
-
-Aqui é quando 
-Para não impactar o Streaming do YouTube, altere o profile do AJA HELO para 720, pressionando a tecla HELO 720 no Stream Deck indicada na imagem.
-
-![Atenuar sinal da transmissão](atenuar-sinal-transmissao.png "Atenuar sinal da transmissão")
 
 ## Stream Deck não funciona
 
@@ -68,6 +68,10 @@ Para isso clique no ícone do BitFocus na barra de cima do Desktop no Mini-Mac (
 ## TV não liga
 
 - Idem ao projetor, se não funcionar pelo celular, tente pelo controle remoto localizado na gaveta.
+
+## Controlador não está mexendo/operando a câmera
+
+Clique [aqui](camera-nao-pode-ser-controlada) para ver sobre como resolver esse problema.
 
 ## Itens pendentes a definir troubleshooting
 
