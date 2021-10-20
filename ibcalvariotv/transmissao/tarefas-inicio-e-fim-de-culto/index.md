@@ -80,4 +80,5 @@
 ## Fim de culto
 - Operador do chat deve definir a descrição e título do vídeo no YouTube e Facebook
 - Desligar Mini-Mac, PCs, TVs e Projetor
-- Coordenador desligar base dos comunicadores.
+- Contar e guardar os comunicadores
+- Coordenador desligar base dos comunicadores
