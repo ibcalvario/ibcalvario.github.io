@@ -11,6 +11,11 @@ Responsável por operar o controle das câmeras.
 Responsável por usar o ProPresenter e o PowerPoint da palavra.\
 [Tarefas durante o culto](durante-o-culto/operador-de-legendas-e-palavra)
 
+A pessoa escalada para esse papel deve comparecer no ensaio e auxiliar a banda passando a letra.\
+Dessa forma ele também treina os louvores que serão tocados no culto.\
+No ensaio ele também deve carregar o celular e os comunicadores.\
+Ao final do ensaio ele deve desligar e guardar os equipamentos.
+
 ## Moderador do chat e áudio
 Fica de olho no chat dos canais de streaming (Youtube e Facebook por exemplo) e vai respondendo as perguntas, escrevendo novas mensagens.\
 [Tarefas durante o culto](durante-o-culto/moderador-do-chat-e-audio)
