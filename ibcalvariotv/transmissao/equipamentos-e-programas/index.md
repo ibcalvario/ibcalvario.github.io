@@ -29,6 +29,11 @@ Suporta apenas 1 destino de streaming por evento, em outras palavras, não pode 
 
 Ele faz o streaming para o [Restream](#restream) para que este, por sua vez, possa multiplicar o stream para YouTube e Facebook.
 
+## Régua de Energia Inteligente
+A função da ŕegua inteligente é energizar equipamentos importantes e poder ligar/desligar os componentes em específico.
+
+A utilização é mais detalhada [aqui](regua-inteligente/).
+
 ## [Stream Deck](https://www.elgato.com/en/gaming/stream-deck)
 [![Stream Deck](stream-deck.png "Stream Deck")](https://www.elgato.com/en/gaming/stream-deck)
 
