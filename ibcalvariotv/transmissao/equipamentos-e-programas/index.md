@@ -104,12 +104,12 @@ TODO: Falta detalhar.
 ## [Cameras PTZ](#)
 São câmeras capazes de movimentar, guardar e carregar posições, mudar propriedades da imagem, etc...
 
-| Numero | Posição  | Marca
-|  ---   |   ---    |  ---
-| 1      | Central  | Marshal
-| 2      | Esquerda | Marshal
-| 3      | Direita  | Marshal
-| 4      | Teto     | NEOid
+| Numero | Posição  | Marca   | IP
+|  ---   |   ---    |  ---    | ---
+| 1      | Central  | Marshal | [10.0.5.51](http://10.0.5.51)
+| 2      | Esquerda | Marshal | [10.0.5.52](http://10.0.5.52)
+| 3      | Direita  | Marshal | [10.0.5.53](http://10.0.5.53)
+| 4      | Teto     | NEOid   | Não tem
 
 ## [Monitor Multi-View](#)
 Monitor ligado a saída Multi-View da [ATEM](#atem), vai mostrar várias câmeras de uma vez, podendo ser personalizado nas configurações da ATEM.
@@ -124,9 +124,8 @@ TODO: Link para guia de operação
 ## [Controlador de PTZs VS PTC IP](controlador-ptz-vs-ptc-ip)
 
 Movimenta e controla as ações das seguintes câmeras PTZs.
-- TODO: Câmera 1
-- TODO: Câmera 2
-- TODO: Câmera 3
-- TODO: Câmera 4
+- Câmera Esquerda
+- Câmera Central
+- Câmera Direita
 
 Mais detalhes [aqui](controlador-ptz-vs-ptc-ip).
