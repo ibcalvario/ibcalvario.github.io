@@ -4,7 +4,7 @@ Vamos dar uma sequencia de soluções para este problema.\
 **Se um deles funcionar o próximo não precisa ser executado.**
 
 ## Deslique e ligue a câmera sendo gentil.
-- Acesse o [controlador](/ibcalvariotv/transmissao/equipamentos-e-programas/cameras-ptz) da câmera com problema.
+- Acesse o [controlador](/ibcalvariotv/transmissao/equipamentos-e-programas#cameras-ptz) da câmera com problema.
 - Procure e acione a função para reiniciar (não use a função de reiniciar para o padrão de fábrica).
 - Tente controlar as câmeras novamente.
 

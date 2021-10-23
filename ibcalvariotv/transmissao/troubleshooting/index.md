@@ -75,8 +75,6 @@ Clique [aqui](camera-nao-pode-ser-controlada) para ver sobre como resolver esse 
 
 ## Itens pendentes a definir troubleshooting
 
-- Como desligar um dispositivo apenas do hack através da régua inteligente.
-- Controlador da PTZ não está funcionando
 - Câmera perdendo foco constantemente
 - Branco da câmera está muito forte
 - Vermelho do carpete está rosa
