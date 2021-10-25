@@ -5,7 +5,7 @@
 - Ligar a varas cênicas no quadro geral embaixo do púlpito.
 
 ## Ligando os computadores
-**Se ligar fora dessa ordem proposta podem haver problemas.**
+**Se não for nessa ordem podem haver problemas.**
 - Hack, ligar duas réguas
 - Ligar MiniMac, digitar senha e esperar abrir tudo
 - Ligar o projetor pelo MiniMac
@@ -78,7 +78,10 @@
 </table>
 
 ## Fim de culto
+**Se não for nessa ordem podem haver problemas.**
 - Operador do chat deve definir a descrição e título do vídeo no YouTube e Facebook
-- Desligar Mini-Mac, PCs, TVs e Projetor
+- Desligar TVs e Projetor
+- Desligar PCs
+- Desligar Mini-Mac
 - Contar e guardar os comunicadores
 - Coordenador desligar base dos comunicadores
