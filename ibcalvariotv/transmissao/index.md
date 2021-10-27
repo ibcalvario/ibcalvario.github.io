@@ -13,7 +13,10 @@ Seria o conjunto de coisas que fazemos para unir diversas ações e gerar um ví
 - [Tarefas de início e fim de culto](tarefas-inicio-e-fim-de-culto/)
 - [Uso de arquivos externos](uso-de-arquivos-externos)
 - [Culto ou eventos avulsos](cultos-ou-eventos-avulsos)
-- [Relação das cenas das PTZ's](https://docs.google.com/forms/d/e/1FAIpQLSeXEsR-l0ivqx7HLGRimf0jaF3FTjfNlw2v1qkcfZQ2UEY5JA/viewform)
 - [Criação de PowerPoint da palavra](criacao-power-point-palavra)
 - [Edição de louvores no ProPresenter](edicao-louvores-propresenter)
 - [Resolvendo problemas (Troubleshooting)](troubleshooting)
+
+## Procedimentos avulsos
+- [Reprodução de vídeos no Mini-Mac](reproducao-videos-mini-mac)
+- [Reprodução de vídeos no PC de letras ou avisos](reproducao-videos-pc-letras-ou-avisos)

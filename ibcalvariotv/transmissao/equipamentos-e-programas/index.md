@@ -29,6 +29,11 @@ Suporta apenas 1 destino de streaming por evento, em outras palavras, não pode 
 
 Ele faz o streaming para o [Restream](#restream) para que este, por sua vez, possa multiplicar o stream para YouTube e Facebook.
 
+## Régua de Energia Inteligente
+A função da ŕegua inteligente é energizar equipamentos importantes e poder ligar/desligar os componentes em específico.
+
+A utilização é mais detalhada [aqui](regua-inteligente/).
+
 ## [Stream Deck](https://www.elgato.com/en/gaming/stream-deck)
 [![Stream Deck](stream-deck.png "Stream Deck")](https://www.elgato.com/en/gaming/stream-deck)
 
@@ -66,6 +71,13 @@ Também é utilizado para exibir os avisos rotativos antes do início do cultos,
 
 A utilização é mais detalhada [aqui](announcer/).
 
+## [Tray Lyrics](#https://bitbucket.org/ibcalvario/ibcalvariotv/src/master/ibcalvariotv-tray-lyrics/)
+[![Tray Lyrics](tray-lyrics.png "Tray Lyrics")](https://bitbucket.org/ibcalvario/ibcalvariotv/src/master/ibcalvariotv-announcer/)
+
+Software de autoria e domínio do Calvário que serve para agilizar ações do StreamDeck.\
+
+A utilização é mais detalhada [aqui](tray-lyrics/).
+
 ## [MiniMac - Auxiliar de Transmissão](#) {#auxiliar-de-transmissao}
 Este computador tem o aplicativo que opera diretamente a ATEM caso necessário.\
 Também tem o [VLC](#vlc) instalado para reproduzir vídeos.
@@ -92,12 +104,12 @@ TODO: Falta detalhar.
 ## [Cameras PTZ](#)
 São câmeras capazes de movimentar, guardar e carregar posições, mudar propriedades da imagem, etc...
 
-| Numero | Posição  | Marca
-|  ---   |   ---    |  ---
-| 1      | Central  | Marshal
-| 2      | Esquerda | Marshal
-| 3      | Direita  | Marshal
-| 4      | Teto     | NEOid
+| Numero | Posição  | Marca   | IP
+|  ---   |   ---    |  ---    | ---
+| 1      | Central  | Marshal | [10.0.5.51](http://10.0.5.51)
+| 2      | Esquerda | Marshal | [10.0.5.52](http://10.0.5.52)
+| 3      | Direita  | Marshal | [10.0.5.53](http://10.0.5.53)
+| 4      | Teto     | NEOid   | Não tem
 
 ## [Monitor Multi-View](#)
 Monitor ligado a saída Multi-View da [ATEM](#atem), vai mostrar várias câmeras de uma vez, podendo ser personalizado nas configurações da ATEM.
@@ -112,9 +124,8 @@ TODO: Link para guia de operação
 ## [Controlador de PTZs VS PTC IP](controlador-ptz-vs-ptc-ip)
 
 Movimenta e controla as ações das seguintes câmeras PTZs.
-- TODO: Câmera 1
-- TODO: Câmera 2
-- TODO: Câmera 3
-- TODO: Câmera 4
+- Câmera Esquerda
+- Câmera Central
+- Câmera Direita
 
 Mais detalhes [aqui](controlador-ptz-vs-ptc-ip).

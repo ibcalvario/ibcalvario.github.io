@@ -5,7 +5,7 @@
 - Ligar a varas cênicas no quadro geral embaixo do púlpito.
 
 ## Ligando os computadores
-**Se ligar fora dessa ordem proposta podem haver problemas.**
+**Se não for nessa ordem podem haver problemas.**
 - Hack, ligar duas réguas
 - Ligar MiniMac, digitar senha e esperar abrir tudo
 - Ligar o projetor pelo MiniMac
@@ -13,7 +13,7 @@
 - Ligar PC do Chat
 
 ## Tarefas de início do culto por pessoa
-<table>
+<table border="1">
   <tr>
     <th>Controlador de Imagens</th>
     <th>Operador de Câmeras</th>
@@ -54,7 +54,7 @@
     <td>Ligar celular e ativar o WhatsApp Web</td><!--Chat-->
   </tr>
   <tr>
-    <td>Testar comunicadores Hollyland</td><!--StreamDeck-->
+    <td>Ligar e testar comunicadores</td><!--StreamDeck-->
     <td></td><!--PTZ-->
     <td></td><!--Legendas-->
     <td>Desativar opção de Chat no YouTube</td><!--Chat-->
@@ -62,7 +62,7 @@
 </table>
 
 ## Abertura (Stream Deck)
-<table>
+<table border="1">
   <tr>
     <td align="center">1</td>
     <td align="center">2</td>
@@ -78,6 +78,10 @@
 </table>
 
 ## Fim de culto
+**Se não for nessa ordem podem haver problemas.**
 - Operador do chat deve definir a descrição e título do vídeo no YouTube e Facebook
-- Desligar Mini-Mac, PCs, TVs e Projetor
-- Coordenador desligar iluminação no quadro
+- Desligar TVs e Projetor
+- Desligar PCs
+- Desligar Mini-Mac
+- Contar e guardar os comunicadores
+- Coordenador desligar base dos comunicadores

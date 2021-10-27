@@ -22,6 +22,17 @@ Para não impactar o Streaming do YouTube, altere o profile do AJA HELO para 720
 
 ![Atenuar sinal da transmissão](atenuar-sinal-transmissao.png "Atenuar sinal da transmissão")
 
+## ProPresenter mostrando a saída no monitor principal
+
+Isso acontece normalmente porque os equipamentos são ligados na ordem errada.\
+Importante se atentar para a ordem correta descrita [aqui](/ibcalvariotv/transmissao/tarefas-inicio-e-fim-de-culto/#ligando-os-computadores).
+
+Uma forma de corrigir isso é entrando no menu Arquivo->Preferências do ProPresenter e arrastando a saída para o menu secundário. Depois disso feche as janela e teste novamente.
+
+Isso está ilustrado na imagem abaixo.
+
+![Arrastando saída para o monitor secundário](propresenter-output-errado.png "Arrastando saída para o monitor secundário")
+
 ## Stream Deck não funciona
 
 - Vá até o [Mini-Mac](/ibcalvariotv/transmissao/equipamentos-e-programas#auxiliar-de-transmissao).
@@ -40,7 +51,15 @@ Para isso clique no ícone do BitFocus na barra de cima do Desktop no Mini-Mac (
 ## Avisos não estão aparecendo
 
 - No [computador de avisos](/ibcalvariotv/transmissao/equipamentos-e-programas/#computador-do-chat-e-avisos) mova o mouse para além da esquerda do monitor principal, perceba que o mouse está se movimentando na tela de avisos do [Multi-View](/ibcalvariotv/transmissao/equipamentos-e-programas#monitor-multi-view).
-- Procurar por uma janela preta, no monitor principal ou no Multi-View.
+- Procurar por uma janela preta, no monitor principal ou no Multi-View (ver [imagem](avisos-no-multiview.jpg)).
+- Clicando e segurando o botão do mouse sobre a barra de título, mova a janela para o segundo monitor (tela no Multi-view).
+- Caso as bordas e título da janela estejam aparecendo, selecionar a janela e pressionar F11 pra ocupar a tela toda.
+
+## PC de avisos está com a tela toda preta
+
+- Pressione a tecla F11.
+- Mova o mouse para além da esquerda do monitor principal, perceba que o mouse está se movimentando na tela de avisos do [Multi-View](/ibcalvariotv/transmissao/equipamentos-e-programas#monitor-multi-view).
+- Procure por uma janela preta, no monitor principal ou no Multi-View (ver [imagem](avisos-no-multiview.jpg)).
 - Clicando e segurando o botão do mouse sobre a barra de título, mova a janela para o segundo monitor (tela no Multi-view).
 - Caso as bordas e título da janela estejam aparecendo, selecionar a janela e pressionar F11 pra ocupar a tela toda.
 
@@ -58,10 +77,12 @@ Para isso clique no ícone do BitFocus na barra de cima do Desktop no Mini-Mac (
 
 - Idem ao projetor, se não funcionar pelo celular, tente pelo controle remoto localizado na gaveta.
 
+## Controlador não está mexendo/operando a câmera
+
+Clique [aqui](camera-nao-pode-ser-controlada) para ver sobre como resolver esse problema.
+
 ## Itens pendentes a definir troubleshooting
 
-- Como desligar um dispositivo apenas do hack através da régua inteligente.
-- Controlador da PTZ não está funcionando
 - Câmera perdendo foco constantemente
 - Branco da câmera está muito forte
 - Vermelho do carpete está rosa
