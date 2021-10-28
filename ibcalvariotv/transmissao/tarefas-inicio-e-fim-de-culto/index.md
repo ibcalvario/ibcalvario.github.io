@@ -12,6 +12,20 @@
 - Ligar PC de legendas
 - Ligar PC do Chat
 
+<script>
+  $(document).ready(function () {
+    $('td').click(function () {
+        //Check to see if background color is set or if it's set to white.
+        if(this.style.background == "") {
+            $(this).css('background', 'green');
+        }
+        else {
+            $(this).css('background', '');
+        }
+    });
+});
+</script>
+
 ## Tarefas de início do culto por pessoa
 <table border="1">
   <tr>
