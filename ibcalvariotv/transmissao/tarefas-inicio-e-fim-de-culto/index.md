@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td>Definir "Culto ao Vivo" no Restream</td><!--StreamDeck-->
-    <td>Ligar sistema de iluminação</td><!--PTZ-->
+    <td>Ajuste dos Preset's</td><!--PTZ-->
     <td>Revisar PowerPoint da Palavra</td><!--Legendas-->
     <td>
     - Ativar avisos nas TVs<br />
@@ -43,13 +43,13 @@
   </tr>
   <tr>
     <td>Conferir vídeo de abertura no VLC e testar</td><!--StreamDeck-->
-    <td>Testar iluminação</td><!--PTZ-->
+    <td></td><!--PTZ-->
     <td>Pedir para mesa de som bloquear áudio</td><!--Legendas-->
     <td>Testar fone de ouvido</td><!--Chat-->
   </tr>
   <tr>
     <td>Calcular horário do play do vídeo de abertura</td><!--StreamDeck-->
-    <td>Ajuste dos Preset's</td><!--PTZ-->
+    <td></td><!--PTZ-->
     <td></td><!--Legendas-->
     <td>Ligar celular e ativar o WhatsApp Web</td><!--Chat-->
   </tr>
@@ -64,10 +64,10 @@
 ## Abertura (Stream Deck)
 <table border="1">
   <tr>
-    <td align="center">1</td>
-    <td align="center">2</td>
-    <td align="center">3</td>
-    <td align="center">4</td>
+    <th align="center">1</th>
+    <th align="center">2</th>
+    <th align="center">3</th>
+    <th align="center">4</th>
   </tr>
   <tr>
     <td>Libera o áudio</td>
