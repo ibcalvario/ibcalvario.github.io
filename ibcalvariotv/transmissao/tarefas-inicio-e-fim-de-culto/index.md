@@ -93,9 +93,23 @@
 
 ## Fim de culto
 **Se não for nessa ordem podem haver problemas.**
-- Operador do chat deve definir a descrição e título do vídeo no YouTube e Facebook
-- Desligar TVs e Projetor
-- Desligar PCs
-- Desligar Mini-Mac
-- Contar e guardar os comunicadores
-- Coordenador desligar base dos comunicadores
+<table border="1">
+  <tr>
+    <td>Operador do chat muda descrição e título do vídeo no YouTube e Facebook</td>
+  </tr>
+  <tr>
+    <td>Desligar TVs e Projetor</td>
+  </tr>
+  <tr>
+    <td>Desligar PCs</td>
+  </tr>
+  <tr>
+    <td>Desligar Mini-Mac</td>
+  </tr>
+  <tr>
+    <td>Contar e guardar os comunicadores</td>
+  </tr>
+  <tr>
+    <td>Coordenador desligar base dos comunicadores</td>
+  </tr>
+</table>
