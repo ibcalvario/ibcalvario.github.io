@@ -76,20 +76,10 @@
 </table>
 
 ## Abertura (Stream Deck)
-<table border="1">
-  <tr>
-    <th align="center">1</th>
-    <th align="center">2</th>
-    <th align="center">3</th>
-    <th align="center">4</th>
-  </tr>
-  <tr>
-    <td>Libera o áudio</td>
-    <td>Play no VLC</td>
-    <td>Apertar o botão "MAC"</td>
-    <td>No final do vídeo aperta novamente o botão "MAC"</td>
-  </tr>
-</table>
+- Libera o áudio
+- Play no VLC
+- Apertar o botão "MAC"
+- No final do vídeo aperta novamente o botão "MAC"
 
 ## Fim de culto
 **Se não for nessa ordem podem haver problemas.**
