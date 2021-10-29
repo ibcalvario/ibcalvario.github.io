@@ -2,7 +2,7 @@
 
 ## Controlador de imagens
 
-### Ligar os equipamentos
+### Ligar os equipamentos {#ligar_equipamentos}
 Primeiramente pegar a chave do rack na gaveta, ao abrir o rack, pressione o botão vermelho posicionado na parte superior esquerda.\
 ![Ligar o rack](ligar-rack.png)\
 Depois precisamos ligar os outros computadores, monitores, TVs e Datashow.\
@@ -24,7 +24,7 @@ TODO: Criar link para o troubleshooting.\
 
 ![Botão Auto no Stream Deck](stream-deck-botao-auto.png)
 
-### Testar o VLC
+### Testar o VLC {#testar_vlc}
 TODO: Precisa terminar.
 
 ### Testar saída do Mac {#testar-saida-do-mac}

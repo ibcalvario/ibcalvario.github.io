@@ -15,6 +15,7 @@
 <script>
   $(document).ready(function () {
     $('td').click(function () {
+      if (this.innerText != "") {
         //Check to see if background color is set or if it's set to white.
         if(this.style.background == "") {
             $(this).css('background', 'green');
@@ -22,8 +23,9 @@
         else {
             $(this).css('background', '');
         }
+      }
     });
-});
+  });
 </script>
 
 ## Tarefas de início do culto por pessoa
