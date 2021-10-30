@@ -1,5 +1,7 @@
 # Script teste troubleshooting
 
+[Link para o teste teórico](https://docs.google.com/forms/d/1fDUEXLiO1B2t_q852GY_lAynAdiZb9xs9Kgn7XGHk3A/edit)
+
 [Link para página de início e fim](/ibcalvariotv/transmissao/tarefas-inicio-e-fim-de-culto)
 
 [Link para página de trouble-shooting](/ibcalvariotv/transmissao/troubleshooting)
