@@ -17,7 +17,7 @@ Em caso de queda do link principal de internet, ou problemas de performance no s
 
 ## Internet Upload Inferior a 10Mbps
 
-Aqui é quando 
+Aqui é quando a internet fica lenta, porém não caiu, isso pode fazer com que a transmissão fique parando para quem está assistindo.
 Para não impactar o Streaming do YouTube, altere o profile do AJA HELO para 720, pressionando a tecla HELO 720 no Stream Deck indicada na imagem.
 
 ![Atenuar sinal da transmissão](atenuar-sinal-transmissao.png "Atenuar sinal da transmissão")
