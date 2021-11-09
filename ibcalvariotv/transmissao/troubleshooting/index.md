@@ -63,7 +63,7 @@ Para isso clique no ícone do BitFocus na barra de cima do Desktop no Mini-Mac (
 - Clicando e segurando o botão do mouse sobre a barra de título, mova a janela para o segundo monitor (tela no Multi-view).
 - Caso as bordas e título da janela estejam aparecendo, selecionar a janela e pressionar F11 pra ocupar a tela toda.
 
-## Botão no Stream Deck não está funcionando
+## O Stream Deck está estranho, algumas coisa não funcionam como deveria
 
 - Aperte o botão Tela Padrão, que ajusta o BitFocus para um estado inicial.
 - Espere dois ou três segundos.
