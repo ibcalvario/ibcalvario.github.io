@@ -72,8 +72,8 @@ Para isso clique no ícone do BitFocus na barra de cima do Desktop no Mini-Mac (
 ## Projetor não liga
 
 - Para ligar o projetor, primeiro tentamos ligar pelo navegador no Mac-Mini.
-- Se não funcionar tentamos ligar pelo aplicativo do celular que funciona via Wifi.
 - Se não funcionar então pode ser que tenha algum problema com a rede, então é necessário ligar pelo controle remoto que fica na gaveta.
+- Se não funcionar tentamos ligar pelo aplicativo do celular que funciona via Wifi.
 
 ## TV não liga
 
