@@ -101,3 +101,7 @@
 - Desligar Mini-Mac
 - Contar e guardar os comunicadores
 - Coordenador desligar base dos comunicadores
+
+## Versão detalhada das funções
+* [Controlador de Imagens](controlador-de-imagens/index.md)
+* [Operador de PTZ](operador-de-cameras/index.md)
