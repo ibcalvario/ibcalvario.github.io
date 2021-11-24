@@ -1,7 +1,7 @@
 # Reprodução de vídeos no Mini-Mac
 
 ## Abra o Finder
-Esse programa é se navega entre os arquivos do computador.
+Esse programa é usado para navegar entre os arquivos do computador.
 ![Abrir o Finder do Mac](atalho-finder.png "Abrir o Finder do Mac")
 
 ## Selecione o arquivo

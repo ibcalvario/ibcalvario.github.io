@@ -78,29 +78,33 @@
 </table>
 
 ## Abertura (Stream Deck)
-<table border="1">
-  <tr>
-    <th align="center">1</th>
-    <th align="center">2</th>
-    <th align="center">3</th>
-    <th align="center">4</th>
-  </tr>
-  <tr>
-    <td>Libera o áudio</td>
-    <td>Play no VLC</td>
-    <td>Apertar o botão "MAC"</td>
-    <td>No final do vídeo aperta novamente o botão "MAC"</td>
-  </tr>
-</table>
+- Libera o áudio
+- Play no VLC
+- Apertar o botão "MAC"
+- No final do vídeo aperta novamente o botão "MAC"
 
 ## Fim de culto
 **Se não for nessa ordem podem haver problemas.**
-- Operador do chat deve definir a descrição e título do vídeo no YouTube e Facebook
-- Desligar TVs e Projetor
-- Desligar PCs
-- Desligar Mini-Mac
-- Contar e guardar os comunicadores
-- Coordenador desligar base dos comunicadores
+<table border="1">
+  <tr>
+    <td>Operador do chat muda descrição e título do vídeo no YouTube e Facebook</td>
+  </tr>
+  <tr>
+    <td>Desligar TVs e Projetor</td>
+  </tr>
+  <tr>
+    <td>Desligar PCs</td>
+  </tr>
+  <tr>
+    <td>Desligar Mini-Mac</td>
+  </tr>
+  <tr>
+    <td>Contar e guardar os comunicadores</td>
+  </tr>
+  <tr>
+    <td>Coordenador desligar base dos comunicadores</td>
+  </tr>
+</table>
 
 ## Versão detalhada das funções
 * [Controlador de Imagens](controlador-de-imagens/index.md)

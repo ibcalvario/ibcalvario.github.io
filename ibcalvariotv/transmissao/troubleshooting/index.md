@@ -17,7 +17,7 @@ Em caso de queda do link principal de internet, ou problemas de performance no s
 
 ## Internet Upload Inferior a 10Mbps
 
-Aqui é quando 
+Aqui é quando a internet fica lenta, porém não caiu, isso pode fazer com que a transmissão fique parando para quem está assistindo.
 Para não impactar o Streaming do YouTube, altere o profile do AJA HELO para 720, pressionando a tecla HELO 720 no Stream Deck indicada na imagem.
 
 ![Atenuar sinal da transmissão](atenuar-sinal-transmissao.png "Atenuar sinal da transmissão")
@@ -63,7 +63,7 @@ Para isso clique no ícone do BitFocus na barra de cima do Desktop no Mini-Mac (
 - Clicando e segurando o botão do mouse sobre a barra de título, mova a janela para o segundo monitor (tela no Multi-view).
 - Caso as bordas e título da janela estejam aparecendo, selecionar a janela e pressionar F11 pra ocupar a tela toda.
 
-## Botão no Stream Deck não está funcionando
+## O Stream Deck está estranho, algumas coisa não funcionam como deveria
 
 - Aperte o botão Tela Padrão, que ajusta o BitFocus para um estado inicial.
 - Espere dois ou três segundos.
@@ -71,7 +71,9 @@ Para isso clique no ícone do BitFocus na barra de cima do Desktop no Mini-Mac (
 
 ## Projetor não liga
 
-- Para ligar o projetor, primeiro tentamos ligar pelo celular, que funciona via Wifi, pode ser que tenha algum problema com a rede então é necessário ligar pelo controle remoto que fica na gaveta.
+- Para ligar o projetor, primeiro tentamos ligar pelo navegador no Mac-Mini.
+- Se não funcionar então pode ser que tenha algum problema com a rede, então é necessário ligar pelo controle remoto que fica na gaveta.
+- Se não funcionar tentamos ligar pelo aplicativo do celular que funciona via Wifi.
 
 ## TV não liga
 

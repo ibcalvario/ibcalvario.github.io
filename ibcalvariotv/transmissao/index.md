@@ -17,6 +17,7 @@ Seria o conjunto de coisas que fazemos para unir diversas ações e gerar um ví
 - [Edição de louvores no ProPresenter](edicao-louvores-propresenter)
 - [Resolvendo problemas (Troubleshooting)](troubleshooting)
 
-## Procedimentos avulsos
+## Procedimentos
 - [Reprodução de vídeos no Mini-Mac](reproducao-videos-mini-mac)
 - [Reprodução de vídeos no PC de letras ou avisos](reproducao-videos-pc-letras-ou-avisos)
+- [Reprodução de fotos no PC de letras](reproducao-fotos-pc-letras)
