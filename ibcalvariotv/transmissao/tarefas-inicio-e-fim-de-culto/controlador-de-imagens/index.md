@@ -2,12 +2,6 @@
 
 ## Controlador de imagens
 
-### Ligar os equipamentos {#ligar_equipamentos}
-Primeiramente pegar a chave do rack na gaveta, ao abrir o rack, pressione o botão vermelho posicionado na parte superior esquerda.\
-![Ligar o rack](ligar-rack.png)\
-Depois precisamos ligar os outros computadores, monitores, TVs e Datashow.\
-TODO: Detalhar como ligam as coisas pela rede.
-
 ### Conferir sinal de Internet
 No [Mac](/ibcalvariotv/transmissao/equipamentos-e-programas/#auxiliar-de-transmissao) abra o browser Chrome e clique no link para o site do SpeedTest, depois clique em INICIAR.\
 ![SpeedTest](speed-test.png)
@@ -24,8 +18,18 @@ TODO: Criar link para o troubleshooting.\
 
 ![Botão Auto no Stream Deck](stream-deck-botao-auto.png)
 
-### Testar o VLC {#testar_vlc}
+### Definir "Culto ao Vivo" no Restream
+Entre na pagina do Restream e verifique se o nome da transmissão no youtube e facebook está como **Culto Ao Vivo**.
+
+Caso não esteja, troque o nome para **Culto ao Vivo**
+
+TODO: Imagens ou gif mostrando o processo
+
+### Conferir vídeo de abertura no VLC e testar {#testar_vlc}
 TODO: Precisa terminar.
+
+### Calcular horário do play do vídeo de abertura
+Verifique quanto tempo tem o video de abertura e, considerando o horário de inicio do culto, calcule quando inicia-lo.
 
 ### Testar saída do Mac {#testar-saida-do-mac}
 Com um vídeo passando no [VLC](/ibcalvariotv/transmissao/equipamentos-e-programas/#vlc) do [Mac](/ibcalvariotv/transmissao/equipamentos-e-programas/#auxiliar-de-transmissao), pressione a tecla MAC no Stream Deck, confira se está saindo no Program.
