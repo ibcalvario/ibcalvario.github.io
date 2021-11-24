@@ -73,7 +73,7 @@
     <td>Ligar e testar comunicadores</td><!--StreamDeck-->
     <td></td><!--PTZ-->
     <td></td><!--Legendas-->
-    <td>Desativar opção de Chat no YouTube</td><!--Chat-->
+    <td></td><!--Chat-->
   </tr>
 </table>
 
@@ -104,4 +104,6 @@
 
 ## Versão detalhada das funções
 * [Controlador de Imagens](controlador-de-imagens/index.md)
-* [Operador de PTZ](operador-de-cameras/index.md)
+* [Operador de Cameras](operador-de-cameras/index.md)
+* [Operador de Legendas](operador-de-legenda-e-palavra/index.md)
+* [Moderador de Chat e Áudio](moderador-do-chat-e-audio/index.md)
