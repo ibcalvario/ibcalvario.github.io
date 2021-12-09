@@ -21,9 +21,11 @@ TODO: Criar link para o troubleshooting.\
 ### Definir "Culto ao Vivo" no Restream
 Entre na pagina do Restream e verifique se o nome da transmissão no youtube e facebook está como **Culto Ao Vivo**.
 
-Caso não esteja, troque o nome para **Culto ao Vivo**
+**Importante** também verificar se os canais esto ativos através das opções de liga/desliga na direita.
 
-TODO: Imagens ou gif mostrando o processo
+Caso os títulos estejam errados, troque o nome para **Culto ao Vivo** clicando no boto `Update Titles`.
+
+![Página dos canais no Restream](titulos-restream.png)
 
 ### Conferir vídeo de abertura no VLC e testar {#testar_vlc}
 TODO: Precisa terminar.
