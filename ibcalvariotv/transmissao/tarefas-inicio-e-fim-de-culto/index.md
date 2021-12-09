@@ -15,6 +15,7 @@
 <script>
   $(document).ready(function () {
     $('td').click(function () {
+      if (this.innerText != "") {
         //Check to see if background color is set or if it's set to white.
         if(this.style.background == "") {
             $(this).css('background', 'green');
@@ -22,8 +23,9 @@
         else {
             $(this).css('background', '');
         }
+      }
     });
-});
+  });
 </script>
 
 ## Tarefas de início do culto por pessoa
@@ -71,7 +73,7 @@
     <td>Ligar e testar comunicadores</td><!--StreamDeck-->
     <td></td><!--PTZ-->
     <td></td><!--Legendas-->
-    <td>Desativar opção de Chat no YouTube</td><!--Chat-->
+    <td></td><!--Chat-->
   </tr>
 </table>
 
@@ -103,3 +105,9 @@
     <td>Coordenador desligar base dos comunicadores</td>
   </tr>
 </table>
+
+## Versão detalhada das funções
+* [Controlador de Imagens](controlador-de-imagens/index.md)
+* [Operador de Cameras](operador-de-cameras/index.md)
+* [Operador de Legendas](operador-de-legenda-e-palavra/index.md)
+* [Moderador de Chat e Áudio](moderador-do-chat-e-audio/index.md)
