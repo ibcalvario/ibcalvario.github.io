@@ -90,3 +90,9 @@ Clique [aqui](camera-nao-pode-ser-controlada) para ver sobre como resolver esse 
 - Vermelho do carpete está rosa
 - Comunicador parou de funcionar
 - Som do vídeo de abertura "estourando"
+
+## Controle NoeID está aparecendo "User ID"
+
+Digite o número 1 cinco vezes.
+
+![NeoID pedindo User ID](neoid-pedindo-userid.png "NeoID pedindo User ID")
