@@ -58,7 +58,7 @@
     </td><!--Chat-->
   </tr>
   <tr>
-    <td>Conferir vídeo de abertura no VLC e testar</td><!--StreamDeck-->
+    <td>Conferir VLC e remover repetição automática</td><!--StreamDeck-->
     <td></td><!--PTZ-->
     <td>Pedir para mesa de som bloquear áudio</td><!--Legendas-->
     <td>Testar fone de ouvido</td><!--Chat-->
