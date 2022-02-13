@@ -96,3 +96,15 @@ Clique [aqui](camera-nao-pode-ser-controlada) para ver sobre como resolver esse 
 Digite o número 1 cinco vezes.
 
 ![NeoID pedindo User ID](neoid-pedindo-userid.png "NeoID pedindo User ID")
+
+## Vídeo de abertura não aparece no Multi-View
+
+- Abra o VLC
+- Entre no menu de "Preferences..."
+- Selecione o tópico Vídeo no topo
+- Mude a opção "Fullscreen Video Device" para Screen 2
+- Clique em Save
+
+![Entre no menu Preferences](vlc-preferencias.png "Entre no menu Preferences")
+
+![Alterando saído do vídeo](vlc-saida-video.png "Alterando saído do vídeo")
