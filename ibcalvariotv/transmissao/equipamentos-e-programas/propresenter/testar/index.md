@@ -16,7 +16,7 @@ O único inconveniente é que, sem comprar a licença, o ProPresenter apresenta 
 
 ## Instalar o ProPresenter
 
-Através desse link você pode baixar a última atualização do [ProPresenter 6](https://renewedvision.com/downloads/pc/ProPresenter6_Win_6162.zip).
+Através desse link você pode baixar a última atualização do [ProPresenter 6](https://renewedvision.com/downloads/pc/ProPresenter6_Win_6162.zip).\
 Se você for no site do ProPresenter e baixar uma versão mais nova devem haver incompatibilidades.
 
 Depois de baixar esse zip é necessário:
