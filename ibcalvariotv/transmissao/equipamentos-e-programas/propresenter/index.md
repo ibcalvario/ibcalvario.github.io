@@ -90,5 +90,5 @@ Se a saída estiver desativada, você vai ver a letra na Pre-visualização, mas
 
 ## Baixar e testar em qualquer lugar.
 
-Veja [aqui](testar) como fazer para baixar e testar o ProPresenter em casa.
+Veja [aqui](testar) como fazer para baixar e testar o ProPresenter em casa.\
 Inclusive você pode fazer download das mesmas legendas usadas na igreja.

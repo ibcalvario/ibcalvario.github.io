@@ -1,5 +1,4 @@
 # Baixando e testando o ProPresenter em qualquer lugar
-
 {: .no_toc}
 
 Índice
@@ -7,9 +6,13 @@
 {:toc}
 ---
 
+## Pra que isso pode ser útil
+
 Esse tutorial mostra como baixar o ProPresenter de qualquer lugar para que você possa treinar.
 
-Imagine que você pode fazer isso para usar as letras em algum projetor/TV em qualquer situação desde que você tenha com computador/notebook com Windows.
+Mas não precisa ficar limitado a isso.\
+Imagine que você pode usar as letras em algum projetor/TV em qualquer situação desde que você tenha com computador/notebook com Windows.\
+O único inconveniente é que, sem comprar a licença, o ProPresenter apresenta o logotipo do ProPresenter em marca d'água na visualização final.
 
 ## Instalar o ProPresenter
 
