@@ -87,3 +87,8 @@ Também é importante ver se, na barra de botões, **o botão Saída está ativa
 Se a saída estiver desativada, você vai ver a letra na Pre-visualização, mas não vai aparecer para a igreja.
 
 ![Lista de slides](lista-de-slides.png)
+
+## Baixar e testar em qualquer lugar.
+
+Veja [aqui](testar) como fazer para baixar e testar o ProPresenter em casa.
+Inclusive você pode fazer download das mesmas legendas usadas na igreja.
